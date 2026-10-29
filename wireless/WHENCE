@@ -1,0 +1,2164 @@
+Driver: ath9k_htc - Atheros HTC devices (USB)
+
+File: ar9271.fw
+File: ar7010.fw
+File: ar7010_1_1.fw
+File: htc_9271.fw
+Version: 1.3.1
+File: htc_7010.fw
+Version: 1.3.1
+
+Licence: Redistributable. See LICENCE.atheros_firmware for details
+SPDX-License-Identifier: LicenseRef-LICENCE.atheros_firmware
+
+File: ath9k_htc/htc_7010-1.4.0.fw
+Version: 1.4.0
+File: ath9k_htc/htc_9271-1.4.0.fw
+Version: 1.4.0
+
+Licence: Free software. See LICENCE.open-ath9k-htc-firmware for details
+SPDX-License-Identifier: LicenseRef-LICENCE.open-ath9k-htc-firmware
+
+--------------------------------------------------------------------------
+
+Driver: iwlwifi - Intel Wireless Wifi
+
+File: intel/iwlwifi/iwlwifi-3945-2.ucode
+Link: iwlwifi-3945-2.ucode -> intel/iwlwifi/iwlwifi-3945-2.ucode
+Version: 15.32.2.9
+
+File: intel/iwlwifi/iwlwifi-4965-2.ucode
+Link: iwlwifi-4965-2.ucode -> intel/iwlwifi/iwlwifi-4965-2.ucode
+Version: 228.61.2.24
+
+File: intel/iwlwifi/iwlwifi-5000-5.ucode
+Link: iwlwifi-5000-5.ucode -> intel/iwlwifi/iwlwifi-5000-5.ucode
+Version: 8.83.5.1
+
+File: intel/iwlwifi/iwlwifi-5150-2.ucode
+Link: iwlwifi-5150-2.ucode -> intel/iwlwifi/iwlwifi-5150-2.ucode
+Version: 8.24.2.2
+
+File: intel/iwlwifi/iwlwifi-1000-5.ucode
+Link: iwlwifi-1000-5.ucode -> intel/iwlwifi/iwlwifi-1000-5.ucode
+Version: 39.31.5.1
+
+File: intel/iwlwifi/iwlwifi-6000-4.ucode
+Link: iwlwifi-6000-4.ucode -> intel/iwlwifi/iwlwifi-6000-4.ucode
+Version: 9.221.4.1
+
+File: intel/iwlwifi/iwlwifi-6050-5.ucode
+Link: iwlwifi-6050-5.ucode -> intel/iwlwifi/iwlwifi-6050-5.ucode
+Version: 41.28.5.1
+
+File: intel/iwlwifi/iwlwifi-6000g2a-6.ucode
+Link: iwlwifi-6000g2a-6.ucode -> intel/iwlwifi/iwlwifi-6000g2a-6.ucode
+Version: 18.168.6.1
+
+File: intel/iwlwifi/iwlwifi-6000g2b-6.ucode
+Link: iwlwifi-6000g2b-6.ucode -> intel/iwlwifi/iwlwifi-6000g2b-6.ucode
+Version: 18.168.6.1
+
+File: intel/iwlwifi/iwlwifi-135-6.ucode
+Link: iwlwifi-135-6.ucode -> intel/iwlwifi/iwlwifi-135-6.ucode
+Version: 18.168.6.1
+
+File: intel/iwlwifi/iwlwifi-100-5.ucode
+Link: iwlwifi-100-5.ucode -> intel/iwlwifi/iwlwifi-100-5.ucode
+Version: 39.31.5.1
+
+File: intel/iwlwifi/iwlwifi-105-6.ucode
+Link: iwlwifi-105-6.ucode -> intel/iwlwifi/iwlwifi-105-6.ucode
+Version: 18.168.6.1
+
+File: intel/iwlwifi/iwlwifi-2030-6.ucode
+Link: iwlwifi-2030-6.ucode -> intel/iwlwifi/iwlwifi-2030-6.ucode
+Version: 18.168.6.1
+
+File: intel/iwlwifi/iwlwifi-2000-6.ucode
+Link: iwlwifi-2000-6.ucode -> intel/iwlwifi/iwlwifi-2000-6.ucode
+Version: 18.168.6.1
+
+File: intel/iwlwifi/iwlwifi-7260-17.ucode
+Link: iwlwifi-7260-17.ucode -> intel/iwlwifi/iwlwifi-7260-17.ucode
+Version: 17.bfb58538.0
+
+File: intel/iwlwifi/iwlwifi-3160-17.ucode
+Link: iwlwifi-3160-17.ucode -> intel/iwlwifi/iwlwifi-3160-17.ucode
+Version: 17.bfb58538.0
+
+File: intel/iwlwifi/iwlwifi-7265-17.ucode
+Link: iwlwifi-7265-17.ucode -> intel/iwlwifi/iwlwifi-7265-17.ucode
+Version: 17.bfb58538.0
+
+File: intel/iwlwifi/iwlwifi-7265D-29.ucode
+Link: iwlwifi-7265D-29.ucode -> intel/iwlwifi/iwlwifi-7265D-29.ucode
+Version: 29.9ef079ed.0
+
+File: intel/iwlwifi/iwlwifi-3168-29.ucode
+Link: iwlwifi-3168-29.ucode -> intel/iwlwifi/iwlwifi-3168-29.ucode
+Version: 29.0bd893f3.0
+
+File: intel/iwlwifi/iwlwifi-8000C-34.ucode
+Link: iwlwifi-8000C-34.ucode -> intel/iwlwifi/iwlwifi-8000C-34.ucode
+Version: 34.610288.0
+
+File: intel/iwlwifi/iwlwifi-8000C-36.ucode
+Link: iwlwifi-8000C-36.ucode -> intel/iwlwifi/iwlwifi-8000C-36.ucode
+Version: 36.c8e8e144.0
+
+File: intel/iwlwifi/iwlwifi-8265-34.ucode
+Link: iwlwifi-8265-34.ucode -> intel/iwlwifi/iwlwifi-8265-34.ucode
+Version: 34.610288.0
+
+File: intel/iwlwifi/iwlwifi-8265-36.ucode
+Link: iwlwifi-8265-36.ucode -> intel/iwlwifi/iwlwifi-8265-36.ucode
+Version: 36.c8e8e144.0
+
+File: intel/iwlwifi/iwlwifi-9000-pu-b0-jf-b0-34.ucode
+Link: iwlwifi-9000-pu-b0-jf-b0-34.ucode -> intel/iwlwifi/iwlwifi-9000-pu-b0-jf-b0-34.ucode
+Version: 34.ba501b11.0
+
+File: intel/iwlwifi/iwlwifi-9000-pu-b0-jf-b0-38.ucode
+Link: iwlwifi-9000-pu-b0-jf-b0-38.ucode -> intel/iwlwifi/iwlwifi-9000-pu-b0-jf-b0-38.ucode
+Version: 38.755cfdd8.0
+
+File: intel/iwlwifi/iwlwifi-9000-pu-b0-jf-b0-46.ucode
+Link: iwlwifi-9000-pu-b0-jf-b0-46.ucode -> intel/iwlwifi/iwlwifi-9000-pu-b0-jf-b0-46.ucode
+Version: 46.7e3e4b69.0
+
+File: intel/iwlwifi/iwlwifi-9260-th-b0-jf-b0-34.ucode
+Link: iwlwifi-9260-th-b0-jf-b0-34.ucode -> intel/iwlwifi/iwlwifi-9260-th-b0-jf-b0-34.ucode
+Version: 34.ba501b11.0
+
+File: intel/iwlwifi/iwlwifi-9260-th-b0-jf-b0-38.ucode
+Link: iwlwifi-9260-th-b0-jf-b0-38.ucode -> intel/iwlwifi/iwlwifi-9260-th-b0-jf-b0-38.ucode
+Version: 38.755cfdd8.0
+
+File: intel/iwlwifi/iwlwifi-9260-th-b0-jf-b0-46.ucode
+Link: iwlwifi-9260-th-b0-jf-b0-46.ucode -> intel/iwlwifi/iwlwifi-9260-th-b0-jf-b0-46.ucode
+Version: 46.7e3e4b69.0
+
+File: intel/iwlwifi/iwlwifi-cc-a0-50.ucode
+Link: iwlwifi-cc-a0-50.ucode -> intel/iwlwifi/iwlwifi-cc-a0-50.ucode
+Version: 50.3e391d3e.0
+
+File: intel/iwlwifi/iwlwifi-Qu-b0-hr-b0-50.ucode
+Link: iwlwifi-Qu-b0-hr-b0-50.ucode -> intel/iwlwifi/iwlwifi-Qu-b0-hr-b0-50.ucode
+Version: 50.3e391d3e.0
+
+File: intel/iwlwifi/iwlwifi-Qu-b0-jf-b0-50.ucode
+Link: iwlwifi-Qu-b0-jf-b0-50.ucode -> intel/iwlwifi/iwlwifi-Qu-b0-jf-b0-50.ucode
+Version: 50.3e391d3e.0
+
+File: intel/iwlwifi/iwlwifi-Qu-c0-hr-b0-50.ucode
+Link: iwlwifi-Qu-c0-hr-b0-50.ucode -> intel/iwlwifi/iwlwifi-Qu-c0-hr-b0-50.ucode
+Version: 50.3e391d3e.0
+
+File: intel/iwlwifi/iwlwifi-Qu-c0-jf-b0-50.ucode
+Link: iwlwifi-Qu-c0-jf-b0-50.ucode -> intel/iwlwifi/iwlwifi-Qu-c0-jf-b0-50.ucode
+Version: 50.3e391d3e.0
+
+File: intel/iwlwifi/iwlwifi-QuZ-a0-hr-b0-50.ucode
+Link: iwlwifi-QuZ-a0-hr-b0-50.ucode -> intel/iwlwifi/iwlwifi-QuZ-a0-hr-b0-50.ucode
+Version: 50.3e391d3e.0
+
+File: intel/iwlwifi/iwlwifi-QuZ-a0-jf-b0-50.ucode
+Link: iwlwifi-QuZ-a0-jf-b0-50.ucode -> intel/iwlwifi/iwlwifi-QuZ-a0-jf-b0-50.ucode
+Version: 50.3e391d3e.0
+
+File: intel/iwlwifi/iwlwifi-cc-a0-59.ucode
+Link: iwlwifi-cc-a0-59.ucode -> intel/iwlwifi/iwlwifi-cc-a0-59.ucode
+Version: 59.601f3a66.0
+
+File: intel/iwlwifi/iwlwifi-Qu-b0-hr-b0-59.ucode
+Link: iwlwifi-Qu-b0-hr-b0-59.ucode -> intel/iwlwifi/iwlwifi-Qu-b0-hr-b0-59.ucode
+Version: 59.601f3a66.0
+
+File: intel/iwlwifi/iwlwifi-Qu-b0-jf-b0-59.ucode
+Link: iwlwifi-Qu-b0-jf-b0-59.ucode -> intel/iwlwifi/iwlwifi-Qu-b0-jf-b0-59.ucode
+Version: 59.601f3a66.0
+
+File: intel/iwlwifi/iwlwifi-Qu-c0-hr-b0-59.ucode
+Link: iwlwifi-Qu-c0-hr-b0-59.ucode -> intel/iwlwifi/iwlwifi-Qu-c0-hr-b0-59.ucode
+Version: 59.601f3a66.0
+
+File: intel/iwlwifi/iwlwifi-Qu-c0-jf-b0-59.ucode
+Link: iwlwifi-Qu-c0-jf-b0-59.ucode -> intel/iwlwifi/iwlwifi-Qu-c0-jf-b0-59.ucode
+Version: 59.601f3a66.0
+
+File: intel/iwlwifi/iwlwifi-QuZ-a0-hr-b0-59.ucode
+Link: iwlwifi-QuZ-a0-hr-b0-59.ucode -> intel/iwlwifi/iwlwifi-QuZ-a0-hr-b0-59.ucode
+Version: 59.601f3a66.0
+
+File: intel/iwlwifi/iwlwifi-QuZ-a0-jf-b0-59.ucode
+Link: iwlwifi-QuZ-a0-jf-b0-59.ucode -> intel/iwlwifi/iwlwifi-QuZ-a0-jf-b0-59.ucode
+Version: 59.601f3a66.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf-a0.pnvm
+Link: iwlwifi-so-a0-gf-a0.pnvm -> intel/iwlwifi/iwlwifi-so-a0-gf-a0.pnvm
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf4-a0.pnvm
+Link: iwlwifi-so-a0-gf4-a0.pnvm -> intel/iwlwifi/iwlwifi-so-a0-gf4-a0.pnvm
+
+File: intel/iwlwifi/iwlwifi-ty-a0-gf-a0-59.ucode
+Link: iwlwifi-ty-a0-gf-a0-59.ucode -> intel/iwlwifi/iwlwifi-ty-a0-gf-a0-59.ucode
+Version: 59.601f3a66.0
+
+File: intel/iwlwifi/iwlwifi-cc-a0-66.ucode
+Link: iwlwifi-cc-a0-66.ucode -> intel/iwlwifi/iwlwifi-cc-a0-66.ucode
+Version: 66.f1c864e0.0
+
+File: intel/iwlwifi/iwlwifi-Qu-b0-hr-b0-66.ucode
+Link: iwlwifi-Qu-b0-hr-b0-66.ucode -> intel/iwlwifi/iwlwifi-Qu-b0-hr-b0-66.ucode
+Version: 66.f1c864e0.0
+
+File: intel/iwlwifi/iwlwifi-Qu-b0-jf-b0-66.ucode
+Link: iwlwifi-Qu-b0-jf-b0-66.ucode -> intel/iwlwifi/iwlwifi-Qu-b0-jf-b0-66.ucode
+Version: 66.f1c864e0.0
+
+File: intel/iwlwifi/iwlwifi-Qu-c0-hr-b0-66.ucode
+Link: iwlwifi-Qu-c0-hr-b0-66.ucode -> intel/iwlwifi/iwlwifi-Qu-c0-hr-b0-66.ucode
+Version: 66.f1c864e0.0
+
+File: intel/iwlwifi/iwlwifi-Qu-c0-jf-b0-66.ucode
+Link: iwlwifi-Qu-c0-jf-b0-66.ucode -> intel/iwlwifi/iwlwifi-Qu-c0-jf-b0-66.ucode
+Version: 66.f1c864e0.0
+
+File: intel/iwlwifi/iwlwifi-QuZ-a0-hr-b0-66.ucode
+Link: iwlwifi-QuZ-a0-hr-b0-66.ucode -> intel/iwlwifi/iwlwifi-QuZ-a0-hr-b0-66.ucode
+Version: 66.f1c864e0.0
+
+File: intel/iwlwifi/iwlwifi-QuZ-a0-jf-b0-66.ucode
+Link: iwlwifi-QuZ-a0-jf-b0-66.ucode -> intel/iwlwifi/iwlwifi-QuZ-a0-jf-b0-66.ucode
+Version: 66.f1c864e0.0
+
+File: intel/iwlwifi/iwlwifi-ty-a0-gf-a0-66.ucode
+Link: iwlwifi-ty-a0-gf-a0-66.ucode -> intel/iwlwifi/iwlwifi-ty-a0-gf-a0-66.ucode
+Version: 66.f1c864e0.0
+
+File: intel/iwlwifi/iwlwifi-cc-a0-72.ucode
+Link: iwlwifi-cc-a0-72.ucode -> intel/iwlwifi/iwlwifi-cc-a0-72.ucode
+Version: 72.daa05125.0
+
+File: intel/iwlwifi/iwlwifi-Qu-b0-hr-b0-72.ucode
+Link: iwlwifi-Qu-b0-hr-b0-72.ucode -> intel/iwlwifi/iwlwifi-Qu-b0-hr-b0-72.ucode
+Version: 72.daa05125.0
+
+File: intel/iwlwifi/iwlwifi-Qu-b0-jf-b0-72.ucode
+Link: iwlwifi-Qu-b0-jf-b0-72.ucode -> intel/iwlwifi/iwlwifi-Qu-b0-jf-b0-72.ucode
+Version: 72.daa05125.0
+
+File: intel/iwlwifi/iwlwifi-Qu-c0-hr-b0-72.ucode
+Link: iwlwifi-Qu-c0-hr-b0-72.ucode -> intel/iwlwifi/iwlwifi-Qu-c0-hr-b0-72.ucode
+Version: 72.daa05125.0
+
+File: intel/iwlwifi/iwlwifi-Qu-c0-jf-b0-72.ucode
+Link: iwlwifi-Qu-c0-jf-b0-72.ucode -> intel/iwlwifi/iwlwifi-Qu-c0-jf-b0-72.ucode
+Version: 72.daa05125.0
+
+File: intel/iwlwifi/iwlwifi-QuZ-a0-hr-b0-72.ucode
+Link: iwlwifi-QuZ-a0-hr-b0-72.ucode -> intel/iwlwifi/iwlwifi-QuZ-a0-hr-b0-72.ucode
+Version: 72.daa05125.0
+
+File: intel/iwlwifi/iwlwifi-QuZ-a0-jf-b0-72.ucode
+Link: iwlwifi-QuZ-a0-jf-b0-72.ucode -> intel/iwlwifi/iwlwifi-QuZ-a0-jf-b0-72.ucode
+Version: 72.daa05125.0
+
+File: intel/iwlwifi/iwlwifi-ty-a0-gf-a0-72.ucode
+Link: iwlwifi-ty-a0-gf-a0-72.ucode -> intel/iwlwifi/iwlwifi-ty-a0-gf-a0-72.ucode
+Version: 72.a764baac.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf4-a0-72.ucode
+Link: iwlwifi-so-a0-gf4-a0-72.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf4-a0-72.ucode
+Version: 72.a764baac.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf-a0-72.ucode
+Link: iwlwifi-so-a0-gf-a0-72.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf-a0-72.ucode
+Version: 72.a764baac.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-hr-b0-72.ucode
+Link: iwlwifi-so-a0-hr-b0-72.ucode -> intel/iwlwifi/iwlwifi-so-a0-hr-b0-72.ucode
+Version: 72.daa05125.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-jf-b0-72.ucode
+Link: iwlwifi-so-a0-jf-b0-72.ucode -> intel/iwlwifi/iwlwifi-so-a0-jf-b0-72.ucode
+Version: 72.daa05125.0
+
+File: intel/iwlwifi/iwlwifi-cc-a0-73.ucode
+Link: iwlwifi-cc-a0-73.ucode -> intel/iwlwifi/iwlwifi-cc-a0-73.ucode
+Version: 73.35c0a2c6.0
+
+File: intel/iwlwifi/iwlwifi-Qu-b0-hr-b0-73.ucode
+Link: iwlwifi-Qu-b0-hr-b0-73.ucode -> intel/iwlwifi/iwlwifi-Qu-b0-hr-b0-73.ucode
+Version: 73.35c0a2c6.0
+
+File: intel/iwlwifi/iwlwifi-Qu-b0-jf-b0-73.ucode
+Link: iwlwifi-Qu-b0-jf-b0-73.ucode -> intel/iwlwifi/iwlwifi-Qu-b0-jf-b0-73.ucode
+Version: 73.35c0a2c6.0
+
+File: intel/iwlwifi/iwlwifi-Qu-c0-hr-b0-73.ucode
+Link: iwlwifi-Qu-c0-hr-b0-73.ucode -> intel/iwlwifi/iwlwifi-Qu-c0-hr-b0-73.ucode
+Version: 73.35c0a2c6.0
+
+File: intel/iwlwifi/iwlwifi-Qu-c0-jf-b0-73.ucode
+Link: iwlwifi-Qu-c0-jf-b0-73.ucode -> intel/iwlwifi/iwlwifi-Qu-c0-jf-b0-73.ucode
+Version: 73.35c0a2c6.0
+
+File: intel/iwlwifi/iwlwifi-QuZ-a0-hr-b0-73.ucode
+Link: iwlwifi-QuZ-a0-hr-b0-73.ucode -> intel/iwlwifi/iwlwifi-QuZ-a0-hr-b0-73.ucode
+Version: 73.35c0a2c6.0
+
+File: intel/iwlwifi/iwlwifi-QuZ-a0-jf-b0-73.ucode
+Link: iwlwifi-QuZ-a0-jf-b0-73.ucode -> intel/iwlwifi/iwlwifi-QuZ-a0-jf-b0-73.ucode
+Version: 73.35c0a2c6.0
+
+File: intel/iwlwifi/iwlwifi-ty-a0-gf-a0-73.ucode
+Link: iwlwifi-ty-a0-gf-a0-73.ucode -> intel/iwlwifi/iwlwifi-ty-a0-gf-a0-73.ucode
+Version: 73.35c0a2c6.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf4-a0-73.ucode
+Link: iwlwifi-so-a0-gf4-a0-73.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf4-a0-73.ucode
+Version: 73.35c0a2c6.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf-a0-73.ucode
+Link: iwlwifi-so-a0-gf-a0-73.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf-a0-73.ucode
+Version: 73.35c0a2c6.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-hr-b0-73.ucode
+Link: iwlwifi-so-a0-hr-b0-73.ucode -> intel/iwlwifi/iwlwifi-so-a0-hr-b0-73.ucode
+Version: 73.35c0a2c6.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-jf-b0-73.ucode
+Link: iwlwifi-so-a0-jf-b0-73.ucode -> intel/iwlwifi/iwlwifi-so-a0-jf-b0-73.ucode
+Version: 73.35c0a2c6.0
+
+File: intel/iwlwifi/iwlwifi-cc-a0-74.ucode
+Link: iwlwifi-cc-a0-74.ucode -> intel/iwlwifi/iwlwifi-cc-a0-74.ucode
+Version: 74.a5e9588b.0
+
+File: intel/iwlwifi/iwlwifi-Qu-b0-hr-b0-74.ucode
+Link: iwlwifi-Qu-b0-hr-b0-74.ucode -> intel/iwlwifi/iwlwifi-Qu-b0-hr-b0-74.ucode
+Version: 74.a5e9588b.0
+
+File: intel/iwlwifi/iwlwifi-Qu-b0-jf-b0-74.ucode
+Link: iwlwifi-Qu-b0-jf-b0-74.ucode -> intel/iwlwifi/iwlwifi-Qu-b0-jf-b0-74.ucode
+Version: 74.a5e9588b.0
+
+File: intel/iwlwifi/iwlwifi-Qu-c0-hr-b0-74.ucode
+Link: iwlwifi-Qu-c0-hr-b0-74.ucode -> intel/iwlwifi/iwlwifi-Qu-c0-hr-b0-74.ucode
+Version: 74.a5e9588b.0
+
+File: intel/iwlwifi/iwlwifi-Qu-c0-jf-b0-74.ucode
+Link: iwlwifi-Qu-c0-jf-b0-74.ucode -> intel/iwlwifi/iwlwifi-Qu-c0-jf-b0-74.ucode
+Version: 74.a5e9588b.0
+
+File: intel/iwlwifi/iwlwifi-QuZ-a0-hr-b0-74.ucode
+Link: iwlwifi-QuZ-a0-hr-b0-74.ucode -> intel/iwlwifi/iwlwifi-QuZ-a0-hr-b0-74.ucode
+Version: 74.a5e9588b.0
+
+File: intel/iwlwifi/iwlwifi-QuZ-a0-jf-b0-74.ucode
+Link: iwlwifi-QuZ-a0-jf-b0-74.ucode -> intel/iwlwifi/iwlwifi-QuZ-a0-jf-b0-74.ucode
+Version: 74.a5e9588b.0
+
+File: intel/iwlwifi/iwlwifi-ty-a0-gf-a0-74.ucode
+Link: iwlwifi-ty-a0-gf-a0-74.ucode -> intel/iwlwifi/iwlwifi-ty-a0-gf-a0-74.ucode
+Version: 74.fe17486e.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf4-a0-74.ucode
+Link: iwlwifi-so-a0-gf4-a0-74.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf4-a0-74.ucode
+Version: 74.fe17486e.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf-a0-74.ucode
+Link: iwlwifi-so-a0-gf-a0-74.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf-a0-74.ucode
+Version: 74.fe17486e.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-hr-b0-74.ucode
+Link: iwlwifi-so-a0-hr-b0-74.ucode -> intel/iwlwifi/iwlwifi-so-a0-hr-b0-74.ucode
+Version: 74.a5e9588b.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-jf-b0-74.ucode
+Link: iwlwifi-so-a0-jf-b0-74.ucode -> intel/iwlwifi/iwlwifi-so-a0-jf-b0-74.ucode
+Version: 74.a5e9588b.0
+
+File: intel/iwlwifi/iwlwifi-cc-a0-77.ucode
+Link: iwlwifi-cc-a0-77.ucode -> intel/iwlwifi/iwlwifi-cc-a0-77.ucode
+Version: 74.563a6e92.0
+
+File: intel/iwlwifi/iwlwifi-Qu-b0-hr-b0-77.ucode
+Link: iwlwifi-Qu-b0-hr-b0-77.ucode -> intel/iwlwifi/iwlwifi-Qu-b0-hr-b0-77.ucode
+Version: 74.563a6e92.0
+
+File: intel/iwlwifi/iwlwifi-Qu-b0-jf-b0-77.ucode
+Link: iwlwifi-Qu-b0-jf-b0-77.ucode -> intel/iwlwifi/iwlwifi-Qu-b0-jf-b0-77.ucode
+Version: 74.563a6e92.0
+
+File: intel/iwlwifi/iwlwifi-Qu-c0-hr-b0-77.ucode
+Link: iwlwifi-Qu-c0-hr-b0-77.ucode -> intel/iwlwifi/iwlwifi-Qu-c0-hr-b0-77.ucode
+Version: 74.563a6e92.0
+
+File: intel/iwlwifi/iwlwifi-Qu-c0-jf-b0-77.ucode
+Link: iwlwifi-Qu-c0-jf-b0-77.ucode -> intel/iwlwifi/iwlwifi-Qu-c0-jf-b0-77.ucode
+Version: 74.563a6e92.0
+
+File: intel/iwlwifi/iwlwifi-QuZ-a0-hr-b0-77.ucode
+Link: iwlwifi-QuZ-a0-hr-b0-77.ucode -> intel/iwlwifi/iwlwifi-QuZ-a0-hr-b0-77.ucode
+Version: 74.563a6e92.0
+
+File: intel/iwlwifi/iwlwifi-QuZ-a0-jf-b0-77.ucode
+Link: iwlwifi-QuZ-a0-jf-b0-77.ucode -> intel/iwlwifi/iwlwifi-QuZ-a0-jf-b0-77.ucode
+Version: 74.563a6e92.0
+
+File: intel/iwlwifi/iwlwifi-ty-a0-gf-a0-77.ucode
+Link: iwlwifi-ty-a0-gf-a0-77.ucode -> intel/iwlwifi/iwlwifi-ty-a0-gf-a0-77.ucode
+Version: 74.f92b5fed.0
+
+File: intel/iwlwifi/iwlwifi-ty-a0-gf-a0-78.ucode
+Link: iwlwifi-ty-a0-gf-a0-78.ucode -> intel/iwlwifi/iwlwifi-ty-a0-gf-a0-78.ucode
+Version: 75.3bfdc55f.0
+
+File: intel/iwlwifi/iwlwifi-ty-a0-gf-a0-79.ucode
+Link: iwlwifi-ty-a0-gf-a0-79.ucode -> intel/iwlwifi/iwlwifi-ty-a0-gf-a0-79.ucode
+Version: 76.27f1c37b.0
+
+File: intel/iwlwifi/iwlwifi-ty-a0-gf-a0-81.ucode
+Link: iwlwifi-ty-a0-gf-a0-81.ucode -> intel/iwlwifi/iwlwifi-ty-a0-gf-a0-81.ucode
+Version: 78.31fc9ae6.0
+
+File: intel/iwlwifi/iwlwifi-ty-a0-gf-a0-83.ucode
+Link: iwlwifi-ty-a0-gf-a0-83.ucode -> intel/iwlwifi/iwlwifi-ty-a0-gf-a0-83.ucode
+Version: 80.e8f84e98.0
+
+File: intel/iwlwifi/iwlwifi-ty-a0-gf-a0-84.ucode
+Link: iwlwifi-ty-a0-gf-a0-84.ucode -> intel/iwlwifi/iwlwifi-ty-a0-gf-a0-84.ucode
+Version: 81.8e5c544c.0
+
+File: intel/iwlwifi/iwlwifi-ty-a0-gf-a0-86.ucode
+Link: iwlwifi-ty-a0-gf-a0-86.ucode -> intel/iwlwifi/iwlwifi-ty-a0-gf-a0-86.ucode
+Version: 83.fb5c9aeb.0
+
+File: intel/iwlwifi/iwlwifi-ty-a0-gf-a0-89.ucode
+Link: iwlwifi-ty-a0-gf-a0-89.ucode -> intel/iwlwifi/iwlwifi-ty-a0-gf-a0-89.ucode
+Version: 86.b20dcd1f.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf4-a0-77.ucode
+Link: iwlwifi-so-a0-gf4-a0-77.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf4-a0-77.ucode
+Version: 74.f92b5fed.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf4-a0-78.ucode
+Link: iwlwifi-so-a0-gf4-a0-78.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf4-a0-78.ucode
+Version: 75.3bfdc55f.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf4-a0-79.ucode
+Link: iwlwifi-so-a0-gf4-a0-79.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf4-a0-79.ucode
+Version: 76.27f1c37b.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf4-a0-81.ucode
+Link: iwlwifi-so-a0-gf4-a0-81.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf4-a0-81.ucode
+Version: 78.31fc9ae6.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf4-a0-83.ucode
+Link: iwlwifi-so-a0-gf4-a0-83.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf4-a0-83.ucode
+Version: 80.e8f84e98.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf4-a0-84.ucode
+Link: iwlwifi-so-a0-gf4-a0-84.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf4-a0-84.ucode
+Version: 81.8e5c544c.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf4-a0-86.ucode
+Link: iwlwifi-so-a0-gf4-a0-86.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf4-a0-86.ucode
+Version: 83.fb5c9aeb.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf4-a0-89.ucode
+Link: iwlwifi-so-a0-gf4-a0-89.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf4-a0-89.ucode
+Version: 86.b20dcd1f.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf-a0-77.ucode
+Link: iwlwifi-so-a0-gf-a0-77.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf-a0-77.ucode
+Version: 74.f92b5fed.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf-a0-78.ucode
+Link: iwlwifi-so-a0-gf-a0-78.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf-a0-78.ucode
+Version: 74.3bfdc55f.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf-a0-79.ucode
+Link: iwlwifi-so-a0-gf-a0-79.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf-a0-79.ucode
+Version: 75.27f1c37b.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf-a0-81.ucode
+Link: iwlwifi-so-a0-gf-a0-81.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf-a0-81.ucode
+Version: 78.31fc9ae6.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf-a0-83.ucode
+Link: iwlwifi-so-a0-gf-a0-83.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf-a0-83.ucode
+Version: 80.e8f84e98.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf-a0-84.ucode
+Link: iwlwifi-so-a0-gf-a0-84.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf-a0-84.ucode
+Version: 81.8e5c544c.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf-a0-86.ucode
+Link: iwlwifi-so-a0-gf-a0-86.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf-a0-86.ucode
+Version: 83.fb5c9aeb.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-gf-a0-89.ucode
+Link: iwlwifi-so-a0-gf-a0-89.ucode -> intel/iwlwifi/iwlwifi-so-a0-gf-a0-89.ucode
+Version: 86.b20dcd1f.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-hr-b0-77.ucode
+Link: iwlwifi-so-a0-hr-b0-77.ucode -> intel/iwlwifi/iwlwifi-so-a0-hr-b0-77.ucode
+Version: 74.f92b5fed.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-hr-b0-79.ucode
+Link: iwlwifi-so-a0-hr-b0-79.ucode -> intel/iwlwifi/iwlwifi-so-a0-hr-b0-79.ucode
+Version: 75.27f1c37b.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-hr-b0-81.ucode
+Link: iwlwifi-so-a0-hr-b0-81.ucode -> intel/iwlwifi/iwlwifi-so-a0-hr-b0-81.ucode
+Version: 78.31fc9ae6.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-hr-b0-83.ucode
+Link: iwlwifi-so-a0-hr-b0-83.ucode -> intel/iwlwifi/iwlwifi-so-a0-hr-b0-83.ucode
+Version: 80.e8f84e98.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-hr-b0-84.ucode
+Link: iwlwifi-so-a0-hr-b0-84.ucode -> intel/iwlwifi/iwlwifi-so-a0-hr-b0-84.ucode
+Version: 81.8e5c544c.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-hr-b0-86.ucode
+Link: iwlwifi-so-a0-hr-b0-86.ucode -> intel/iwlwifi/iwlwifi-so-a0-hr-b0-86.ucode
+Version: 83.fb5c9aeb.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-hr-b0-89.ucode
+Link: iwlwifi-so-a0-hr-b0-89.ucode -> intel/iwlwifi/iwlwifi-so-a0-hr-b0-89.ucode
+Version: 86.b20dcd1f.0
+
+File: intel/iwlwifi/iwlwifi-so-a0-jf-b0-77.ucode
+Link: iwlwifi-so-a0-jf-b0-77.ucode -> intel/iwlwifi/iwlwifi-so-a0-jf-b0-77.ucode
+Version: 74.f92b5fed.0
+
+File: intel/iwlwifi/iwlwifi-ty-a0-gf-a0.pnvm
+Link: iwlwifi-ty-a0-gf-a0.pnvm -> intel/iwlwifi/iwlwifi-ty-a0-gf-a0.pnvm
+
+File: intel/iwlwifi/iwlwifi-bz-b0-hr-b0-93.ucode
+Link: iwlwifi-bz-b0-hr-b0-93.ucode -> intel/iwlwifi/iwlwifi-bz-b0-hr-b0-93.ucode
+Version: 90.26a2cb89.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-hr-b0-96.ucode
+Link: iwlwifi-bz-b0-hr-b0-96.ucode -> intel/iwlwifi/iwlwifi-bz-b0-hr-b0-96.ucode
+Version: 93.44729d4e.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-hr-b0-98.ucode
+Link: iwlwifi-bz-b0-hr-b0-98.ucode -> intel/iwlwifi/iwlwifi-bz-b0-hr-b0-98.ucode
+Version: 95.d661c37c.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-hr-b0-100.ucode
+Link: iwlwifi-bz-b0-hr-b0-100.ucode -> intel/iwlwifi/iwlwifi-bz-b0-hr-b0-100.ucode
+Version: 97.5850a0c2.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-hr-b0.pnvm
+Link: iwlwifi-bz-b0-hr-b0.pnvm -> intel/iwlwifi/iwlwifi-bz-b0-hr-b0.pnvm
+
+File: intel/iwlwifi/iwlwifi-bz-b0-gf-a0-92.ucode
+Link: iwlwifi-bz-b0-gf-a0-92.ucode -> intel/iwlwifi/iwlwifi-bz-b0-gf-a0-92.ucode
+Version: 89.7541f516.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-gf-a0-94.ucode
+Link: iwlwifi-bz-b0-gf-a0-94.ucode -> intel/iwlwifi/iwlwifi-bz-b0-gf-a0-94.ucode
+Version: 91.62990553.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-gf-a0-96.ucode
+Link: iwlwifi-bz-b0-gf-a0-96.ucode -> intel/iwlwifi/iwlwifi-bz-b0-gf-a0-96.ucode
+Version: 93.44729d4e.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-gf-a0-97.ucode
+Link: iwlwifi-bz-b0-gf-a0-97.ucode -> intel/iwlwifi/iwlwifi-bz-b0-gf-a0-97.ucode
+Version: 94.8049d69b.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-gf-a0-98.ucode
+Link: iwlwifi-bz-b0-gf-a0-98.ucode -> intel/iwlwifi/iwlwifi-bz-b0-gf-a0-98.ucode
+Version: 95.d661c37c.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-gf-a0-100.ucode
+Link: iwlwifi-bz-b0-gf-a0-100.ucode -> intel/iwlwifi/iwlwifi-bz-b0-gf-a0-100.ucode
+Version: 97.5850a0c2.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-gf-a0.pnvm
+Link: iwlwifi-bz-b0-gf-a0.pnvm -> intel/iwlwifi/iwlwifi-bz-b0-gf-a0.pnvm
+
+File: intel/iwlwifi/iwlwifi-gl-c0-fm-c0-83.ucode
+Link: iwlwifi-gl-c0-fm-c0-83.ucode -> intel/iwlwifi/iwlwifi-gl-c0-fm-c0-83.ucode
+Version: 80.ec13314b.0
+
+File: intel/iwlwifi/iwlwifi-gl-c0-fm-c0-86.ucode
+Link: iwlwifi-gl-c0-fm-c0-86.ucode -> intel/iwlwifi/iwlwifi-gl-c0-fm-c0-86.ucode
+Version: 83.fb5c9aeb.0
+
+File: intel/iwlwifi/iwlwifi-gl-c0-fm-c0-90.ucode
+Link: iwlwifi-gl-c0-fm-c0-90.ucode -> intel/iwlwifi/iwlwifi-gl-c0-fm-c0-90.ucode
+Version: 87.38c93dbc.0
+
+File: intel/iwlwifi/iwlwifi-gl-c0-fm-c0-92.ucode
+Link: iwlwifi-gl-c0-fm-c0-92.ucode -> intel/iwlwifi/iwlwifi-gl-c0-fm-c0-92.ucode
+Version: 89.67ce4588.0
+
+File: intel/iwlwifi/iwlwifi-gl-c0-fm-c0-94.ucode
+Link: iwlwifi-gl-c0-fm-c0-94.ucode -> intel/iwlwifi/iwlwifi-gl-c0-fm-c0-94.ucode
+Version: 91.62990553.0
+
+File: intel/iwlwifi/iwlwifi-gl-c0-fm-c0-96.ucode
+Link: iwlwifi-gl-c0-fm-c0-96.ucode -> intel/iwlwifi/iwlwifi-gl-c0-fm-c0-96.ucode
+Version: 93.44729d4e.0
+
+File: intel/iwlwifi/iwlwifi-gl-c0-fm-c0-97.ucode
+Link: iwlwifi-gl-c0-fm-c0-97.ucode -> intel/iwlwifi/iwlwifi-gl-c0-fm-c0-97.ucode
+Version: 94.8049d69b.0
+
+File: intel/iwlwifi/iwlwifi-gl-c0-fm-c0-98.ucode
+Link: iwlwifi-gl-c0-fm-c0-98.ucode -> intel/iwlwifi/iwlwifi-gl-c0-fm-c0-98.ucode
+Version: 95.d661c37c.0
+
+File: intel/iwlwifi/iwlwifi-gl-c0-fm-c0-100.ucode
+Link: iwlwifi-gl-c0-fm-c0-100.ucode -> intel/iwlwifi/iwlwifi-gl-c0-fm-c0-100.ucode
+Version: 97.3f3ef548.0
+
+File: intel/iwlwifi/iwlwifi-gl-c0-fm-c0-101.ucode
+Link: iwlwifi-gl-c0-fm-c0-101.ucode -> intel/iwlwifi/iwlwifi-gl-c0-fm-c0-101.ucode
+Version: 98.6ef20b19.0
+
+File: intel/iwlwifi/iwlwifi-gl-c0-fm-c0-c103.ucode
+Link: iwlwifi-gl-c0-fm-c0-c103.ucode -> intel/iwlwifi/iwlwifi-gl-c0-fm-c0-c103.ucode
+Version: 103.1a5cc88d.0
+
+File: intel/iwlwifi/iwlwifi-gl-c0-fm-c0-c106.ucode
+Link: iwlwifi-gl-c0-fm-c0-c106.ucode -> intel/iwlwifi/iwlwifi-gl-c0-fm-c0-c106.ucode
+Version: 106.c88d33af.0
+
+File: intel/iwlwifi/iwlwifi-gl-c0-fm-c0-c107.ucode
+Link: iwlwifi-gl-c0-fm-c0-c107.ucode -> intel/iwlwifi/iwlwifi-gl-c0-fm-c0-c107.ucode
+Version: 107.1b444747.0
+
+File: intel/iwlwifi/iwlwifi-gl-c0-fm-c0-c108.ucode
+Link: iwlwifi-gl-c0-fm-c0-c108.ucode -> intel/iwlwifi/iwlwifi-gl-c0-fm-c0-c108.ucode
+Version: 108.45105872.0
+
+File: intel/iwlwifi/iwlwifi-gl-c0-fm-c0-c101.ucode
+Link: iwlwifi-gl-c0-fm-c0-c101.ucode -> intel/iwlwifi/iwlwifi-gl-c0-fm-c0-c101.ucode
+Version: 101.6e695a70.0
+
+File: intel/iwlwifi/iwlwifi-gl-c0-fm-c0-c102.ucode
+Link: iwlwifi-gl-c0-fm-c0-c102.ucode -> intel/iwlwifi/iwlwifi-gl-c0-fm-c0-c102.ucode
+Version: 102.07fca168.0
+
+File: intel/iwlwifi/iwlwifi-gl-c0-fm-c0.pnvm
+Link: iwlwifi-gl-c0-fm-c0.pnvm -> intel/iwlwifi/iwlwifi-gl-c0-fm-c0.pnvm
+
+File: intel/iwlwifi/iwlwifi-bz-b0-fm-c0-92.ucode
+Link: iwlwifi-bz-b0-fm-c0-92.ucode -> intel/iwlwifi/iwlwifi-bz-b0-fm-c0-92.ucode
+Version: 89.67ce4588.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-fm-c0-93.ucode
+Link: iwlwifi-bz-b0-fm-c0-93.ucode -> intel/iwlwifi/iwlwifi-bz-b0-fm-c0-93.ucode
+Version: 90.26a2cb89.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-fm-c0-94.ucode
+Link: iwlwifi-bz-b0-fm-c0-94.ucode -> intel/iwlwifi/iwlwifi-bz-b0-fm-c0-94.ucode
+Version: 91.62990553.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-fm-c0-96.ucode
+Link: iwlwifi-bz-b0-fm-c0-96.ucode -> intel/iwlwifi/iwlwifi-bz-b0-fm-c0-96.ucode
+Version: 93.44729d4e.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-fm-c0-97.ucode
+Link: iwlwifi-bz-b0-fm-c0-97.ucode -> intel/iwlwifi/iwlwifi-bz-b0-fm-c0-97.ucode
+Version: 94.8049d69b.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-fm-c0-98.ucode
+Link: iwlwifi-bz-b0-fm-c0-98.ucode -> intel/iwlwifi/iwlwifi-bz-b0-fm-c0-98.ucode
+Version: 95.d661c37c.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-fm-c0-100.ucode
+Link: iwlwifi-bz-b0-fm-c0-100.ucode -> intel/iwlwifi/iwlwifi-bz-b0-fm-c0-100.ucode
+Version: 97.3f3ef548.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-fm-c0-101.ucode
+Link: iwlwifi-bz-b0-fm-c0-101.ucode -> intel/iwlwifi/iwlwifi-bz-b0-fm-c0-101.ucode
+Version: 98.6ef20b19.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-fm-c0-c101.ucode
+Link: iwlwifi-bz-b0-fm-c0-c101.ucode -> intel/iwlwifi/iwlwifi-bz-b0-fm-c0-c101.ucode
+Version: 101.6e695a70.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-fm-c0-c102.ucode
+Link: iwlwifi-bz-b0-fm-c0-c102.ucode -> intel/iwlwifi/iwlwifi-bz-b0-fm-c0-c102.ucode
+Version: 102.07fca168.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-fm-c0-c103.ucode
+Link: iwlwifi-bz-b0-fm-c0-c103.ucode -> intel/iwlwifi/iwlwifi-bz-b0-fm-c0-c103.ucode
+Version: 103.1a5cc88d.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-fm-c0-c106.ucode
+Link: iwlwifi-bz-b0-fm-c0-c106.ucode -> intel/iwlwifi/iwlwifi-bz-b0-fm-c0-c106.ucode
+Version: 106.c88d33af.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-fm-c0-c107.ucode
+Link: iwlwifi-bz-b0-fm-c0-c107.ucode -> intel/iwlwifi/iwlwifi-bz-b0-fm-c0-c107.ucode
+Version: 107.b2a0d4b2k.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-fm-c0.pnvm
+Link: iwlwifi-bz-b0-fm-c0.pnvm -> intel/iwlwifi/iwlwifi-bz-b0-fm-c0.pnvm
+
+File: intel/iwlwifi/iwlwifi-ma-b0-gf-a0-83.ucode
+Link: iwlwifi-ma-b0-gf-a0-83.ucode -> intel/iwlwifi/iwlwifi-ma-b0-gf-a0-83.ucode
+Version: 80.d24e06ed.0
+
+File: intel/iwlwifi/iwlwifi-ma-b0-gf-a0-86.ucode
+Link: iwlwifi-ma-b0-gf-a0-86.ucode -> intel/iwlwifi/iwlwifi-ma-b0-gf-a0-86.ucode
+Version: 83.fb5c9aeb.0
+
+File: intel/iwlwifi/iwlwifi-ma-b0-gf-a0-89.ucode
+Link: iwlwifi-ma-b0-gf-a0-89.ucode -> intel/iwlwifi/iwlwifi-ma-b0-gf-a0-89.ucode
+Version: 86.b20dcd1f.0
+
+File: intel/iwlwifi/iwlwifi-ma-b0-gf-a0.pnvm
+Link: iwlwifi-ma-b0-gf-a0.pnvm -> intel/iwlwifi/iwlwifi-ma-b0-gf-a0.pnvm
+
+File: intel/iwlwifi/iwlwifi-ma-b0-gf4-a0-83.ucode
+Link: iwlwifi-ma-b0-gf4-a0-83.ucode -> intel/iwlwifi/iwlwifi-ma-b0-gf4-a0-83.ucode
+Version: 80.d24e06ed.0
+
+File: intel/iwlwifi/iwlwifi-ma-b0-gf4-a0-86.ucode
+Link: iwlwifi-ma-b0-gf4-a0-86.ucode -> intel/iwlwifi/iwlwifi-ma-b0-gf4-a0-86.ucode
+Version: 83.fb5c9aeb.0
+
+File: intel/iwlwifi/iwlwifi-ma-b0-gf4-a0-89.ucode
+Link: iwlwifi-ma-b0-gf4-a0-89.ucode -> intel/iwlwifi/iwlwifi-ma-b0-gf4-a0-89.ucode
+Version: 86.b20dcd1f.0
+
+File: intel/iwlwifi/iwlwifi-ma-b0-gf4-a0.pnvm
+Link: iwlwifi-ma-b0-gf4-a0.pnvm -> intel/iwlwifi/iwlwifi-ma-b0-gf4-a0.pnvm
+
+File: intel/iwlwifi/iwlwifi-ma-b0-hr-b0-83.ucode
+Link: iwlwifi-ma-b0-hr-b0-83.ucode -> intel/iwlwifi/iwlwifi-ma-b0-hr-b0-83.ucode
+Version: 80.d24e06ed.0
+
+File: intel/iwlwifi/iwlwifi-ma-b0-hr-b0-86.ucode
+Link: iwlwifi-ma-b0-hr-b0-86.ucode -> intel/iwlwifi/iwlwifi-ma-b0-hr-b0-86.ucode
+Version: 83.fb5c9aeb.0
+
+File: intel/iwlwifi/iwlwifi-ma-b0-hr-b0-89.ucode
+Link: iwlwifi-ma-b0-hr-b0-89.ucode -> intel/iwlwifi/iwlwifi-ma-b0-hr-b0-89.ucode
+Version: 86.b20dcd1f.0
+
+File: intel/iwlwifi/iwlwifi-sc-a0-wh-b0-101.ucode
+Link: iwlwifi-sc-a0-wh-b0-101.ucode -> intel/iwlwifi/iwlwifi-sc-a0-wh-b0-101.ucode
+Version: 98.80584591.0
+
+File: intel/iwlwifi/iwlwifi-sc-a0-wh-b0-c103.ucode
+Link: iwlwifi-sc-a0-wh-b0-c103.ucode -> intel/iwlwifi/iwlwifi-sc-a0-wh-b0-c103.ucode
+Version: 103.1a5cc88d.0
+
+File: intel/iwlwifi/iwlwifi-sc-a0-wh-b0-c106.ucode
+Link: iwlwifi-sc-a0-wh-b0-c106.ucode -> intel/iwlwifi/iwlwifi-sc-a0-wh-b0-c106.ucode
+Version: 106.c88d33af.0
+
+File: intel/iwlwifi/iwlwifi-sc-a0-wh-b0-c107.ucode
+Link: iwlwifi-sc-a0-wh-b0-c107.ucode -> intel/iwlwifi/iwlwifi-sc-a0-wh-b0-c107.ucode
+Version: 107.1b444747.0
+
+File: intel/iwlwifi/iwlwifi-sc-a0-wh-b0-c108.ucode
+Link: iwlwifi-sc-a0-wh-b0-c108.ucode -> intel/iwlwifi/iwlwifi-sc-a0-wh-b0-c108.ucode
+Version: 108.45105872.0
+
+File: intel/iwlwifi/iwlwifi-sc-a0-wh-b0-c101.ucode
+Link: iwlwifi-sc-a0-wh-b0-c101.ucode -> intel/iwlwifi/iwlwifi-sc-a0-wh-b0-c101.ucode
+Version: 101.6e695a70.0
+
+File: intel/iwlwifi/iwlwifi-sc-a0-wh-b0-c102.ucode
+Link: iwlwifi-sc-a0-wh-b0-c102.ucode -> intel/iwlwifi/iwlwifi-sc-a0-wh-b0-c102.ucode
+Version: 102.07fca168.0
+
+File: intel/iwlwifi/iwlwifi-sc-a0-gf-a0-100.ucode
+Link: iwlwifi-sc-a0-gf-a0-100.ucode -> intel/iwlwifi/iwlwifi-sc-a0-gf-a0-100.ucode
+Version: 97.5850a0c2.0
+
+File: intel/iwlwifi/iwlwifi-sc-a0-fm-c0-c101.ucode
+Link: iwlwifi-sc-a0-fm-c0-c101.ucode -> intel/iwlwifi/iwlwifi-sc-a0-fm-c0-c101.ucode
+Version: 101.6e695a70.0
+
+File: intel/iwlwifi/iwlwifi-sc-a0-fm-c0-c102.ucode
+Link: iwlwifi-sc-a0-fm-c0-c102.ucode -> intel/iwlwifi/iwlwifi-sc-a0-fm-c0-c102.ucode
+Version: 102.07fca168.0
+
+File: intel/iwlwifi/iwlwifi-sc-a0-fm-c0-c103.ucode
+Link: iwlwifi-sc-a0-fm-c0-c103.ucode -> intel/iwlwifi/iwlwifi-sc-a0-fm-c0-c103.ucode
+Version: 103.1a5cc88d.0
+
+File: intel/iwlwifi/iwlwifi-sc-a0-fm-c0-c106.ucode
+Link: iwlwifi-sc-a0-fm-c0-c106.ucode -> intel/iwlwifi/iwlwifi-sc-a0-fm-c0-c106.ucode
+Version: 106.c88d33af.0
+
+File: intel/iwlwifi/iwlwifi-sc-a0-fm-c0-c107.ucode
+Link: iwlwifi-sc-a0-fm-c0-c107.ucode -> intel/iwlwifi/iwlwifi-sc-a0-fm-c0-c107.ucode
+Version: 107.1b444747.0
+
+File: intel/iwlwifi/iwlwifi-sc-a0-fm-c0-c108.ucode
+Link: iwlwifi-sc-a0-fm-c0-c108.ucode -> intel/iwlwifi/iwlwifi-sc-a0-fm-c0-c108.ucode
+Version: 108.45105872.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-wh-b0-c102.ucode
+Link: iwlwifi-bz-b0-wh-b0-c102.ucode -> intel/iwlwifi/iwlwifi-bz-b0-wh-b0-c102.ucode
+Version: 102.07fca168.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-wh-b0-c103.ucode
+Link: iwlwifi-bz-b0-wh-b0-c103.ucode -> intel/iwlwifi/iwlwifi-bz-b0-wh-b0-c103.ucode
+Version: 103.1a5cc88d.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-wh-b0-c106.ucode
+Link: iwlwifi-bz-b0-wh-b0-c106.ucode -> intel/iwlwifi/iwlwifi-bz-b0-wh-b0-c106.ucode
+Version: 106.c88d33af.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-wh-b0-c107.ucode
+Link: iwlwifi-bz-b0-wh-b0-c107.ucode -> intel/iwlwifi/iwlwifi-bz-b0-wh-b0-c107.ucode
+Version: 107.1b444747.0
+
+File: intel/iwlwifi/iwlwifi-bz-b0-wh-b0-c108.ucode
+Link: iwlwifi-bz-b0-wh-b0-c108.ucode -> intel/iwlwifi/iwlwifi-bz-b0-wh-b0-c108.ucode
+Version: 108.45105872.0
+
+Licence: Redistributable. See LICENCE.iwlwifi_firmware for details
+SPDX-License-Identifier: LicenseRef-LICENCE.iwlwifi_firmware
+
+Also available from http://wireless.kernel.org/en/users/Drivers/iwlwifi#Firmware
+
+--------------------------------------------------------------------------
+
+Driver: mt7601u - MediaTek MT7601U Wireless MACs
+
+File: mediatek/mt7601u.bin
+Version: 34
+Link: mt7601u.bin -> mediatek/mt7601u.bin
+
+Licence: Redistributable. See LICENCE.ralink_a_mediatek_company_firmware for details
+SPDX-License-Identifier: LicenseRef-LICENCE.ralink_a_mediatek_company_firmware
+
+Downloaded from http://www.mediatek.com/en/downloads/
+
+--------------------------------------------------------------------------
+
+Driver: rt2800pci - Ralink RT2860, RT2890, RT3090, RT3290, RT5390 wireless MACs
+
+File: rt2860.bin
+Version: 40
+
+File: rt3290.bin
+Version: 37
+
+Licence: Redistributable. See LICENCE.ralink-firmware.txt for details
+SPDX-License-Identifier: LicenseRef-LICENCE.ralink-firmware.txt
+
+Binary file supplied originally by Shiang Tu <shiang_tu@ralinktech.com>, latest
+from http://www.mediatek.com/en/downloads1/downloads/
+
+--------------------------------------------------------------------------
+
+Driver: rt2800usb - Ralink RT2870, RT3070, RT3071, RT3072, RT5370 wireless MACs
+
+File: rt2870.bin
+Version: 36
+
+Licence: Redistributable. See LICENCE.ralink-firmware.txt for details
+SPDX-License-Identifier: LicenseRef-LICENCE.ralink-firmware.txt
+
+Binary file supplied originally by Shiang Tu <shiang_tu@ralinktech.com>, latest
+from http://www.mediatek.com/en/downloads1/downloads/
+
+--------------------------------------------------------------------------
+
+Driver: ath3k - DFU Driver for Atheros bluetooth chipset AR3011
+
+File: ath3k-1.fw
+Version: 1.0
+
+Fix EEPROM radio table issue and change PID to 3005
+
+Licence: Redistributable. See LICENCE.atheros_firmware for details
+SPDX-License-Identifier: LicenseRef-LICENCE.atheros_firmware
+
+--------------------------------------------------------------------------
+
+Driver: brcmfmac - Broadcom 802.11n fullmac wireless LAN driver.
+
+File: brcm/bcm4329-fullmac-4.bin
+File: brcm/brcmfmac43236b.bin
+File: brcm/brcmfmac4329-sdio.bin
+File: brcm/brcmfmac4330-sdio.bin
+File: brcm/brcmfmac4334-sdio.bin
+File: brcm/brcmfmac4335-sdio.bin
+File: brcm/brcmfmac43241b0-sdio.bin
+File: brcm/brcmfmac43241b4-sdio.bin
+File: brcm/brcmfmac43241b5-sdio.bin
+File: brcm/brcmfmac43242a.bin
+File: brcm/brcmfmac43143.bin
+File: brcm/brcmfmac43143-sdio.bin
+File: brcm/brcmfmac43430a0-sdio.bin
+File: brcm/brcmfmac4350c2-pcie.bin
+File: brcm/brcmfmac4350-pcie.bin
+File: brcm/brcmfmac43569.bin
+File: brcm/brcmfmac4358-pcie.bin
+File: brcm/brcmfmac43602-pcie.bin
+File: brcm/brcmfmac43602-pcie.ap.bin
+File: brcm/brcmfmac4366b-pcie.bin
+File: brcm/brcmfmac4366c-pcie.bin
+File: brcm/brcmfmac4371-pcie.bin
+
+Licence: Redistributable. See LICENCE.broadcom_bcm43xx for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.broadcom_bcm43xx
+
+File: brcm/brcmfmac4373.bin
+File: cypress/cyfmac43012-sdio.bin
+Link: brcm/brcmfmac43012-sdio.bin -> ../cypress/cyfmac43012-sdio.bin
+File: cypress/cyfmac43012-sdio.clm_blob
+Link: brcm/brcmfmac43012-sdio.clm_blob -> ../cypress/cyfmac43012-sdio.clm_blob
+File: cypress/cyfmac43340-sdio.bin
+Link: brcm/brcmfmac43340-sdio.bin -> ../cypress/cyfmac43340-sdio.bin
+File: cypress/cyfmac43362-sdio.bin
+Link: brcm/brcmfmac43362-sdio.bin -> ../cypress/cyfmac43362-sdio.bin
+File: cypress/cyfmac4339-sdio.bin
+Link: brcm/brcmfmac4339-sdio.bin -> ../cypress/cyfmac4339-sdio.bin
+File: cypress/cyfmac43430-sdio.bin
+Link: brcm/brcmfmac43430-sdio.bin -> ../cypress/cyfmac43430-sdio.bin
+File: cypress/cyfmac43430-sdio.clm_blob
+Link: brcm/brcmfmac43430-sdio.clm_blob -> ../cypress/cyfmac43430-sdio.clm_blob
+File: cypress/cyfmac43455-sdio.bin
+Link: brcm/brcmfmac43455-sdio.bin -> ../cypress/cyfmac43455-sdio.bin
+File: cypress/cyfmac43455-sdio.clm_blob
+Link: brcm/brcmfmac43455-sdio.clm_blob -> ../cypress/cyfmac43455-sdio.clm_blob
+File: cypress/cyfmac4354-sdio.bin
+Link: brcm/brcmfmac4354-sdio.bin -> ../cypress/cyfmac4354-sdio.bin
+File: cypress/cyfmac4354-sdio.clm_blob
+Link: brcm/brcmfmac4354-sdio.clm_blob -> ../cypress/cyfmac4354-sdio.clm_blob
+File: brcm/brcmfmac4354-sdio.nvidia,p2371-2180.txt
+File: cypress/cyfmac4356-pcie.bin
+Link: brcm/brcmfmac4356-pcie.bin -> ../cypress/cyfmac4356-pcie.bin
+File: cypress/cyfmac4356-pcie.clm_blob
+Link: brcm/brcmfmac4356-pcie.clm_blob -> ../cypress/cyfmac4356-pcie.clm_blob
+File: cypress/cyfmac4356-sdio.bin
+Link: brcm/brcmfmac4356-sdio.bin -> ../cypress/cyfmac4356-sdio.bin
+File: cypress/cyfmac4356-sdio.clm_blob
+Link: brcm/brcmfmac4356-sdio.clm_blob -> ../cypress/cyfmac4356-sdio.clm_blob
+File: cypress/cyfmac43570-pcie.bin
+Link: brcm/brcmfmac43570-pcie.bin -> ../cypress/cyfmac43570-pcie.bin
+File: cypress/cyfmac43570-pcie.clm_blob
+Link: brcm/brcmfmac43570-pcie.clm_blob -> ../cypress/cyfmac43570-pcie.clm_blob
+File: cypress/cyfmac4373-sdio.bin
+Link: brcm/brcmfmac4373-sdio.bin -> ../cypress/cyfmac4373-sdio.bin
+File: cypress/cyfmac4373-sdio.clm_blob
+Link: brcm/brcmfmac4373-sdio.clm_blob -> ../cypress/cyfmac4373-sdio.clm_blob
+File: cypress/cyfmac54591-pcie.bin
+Link: brcm/brcmfmac54591-pcie.bin -> ../cypress/cyfmac54591-pcie.bin
+File: cypress/cyfmac54591-pcie.clm_blob
+Link: brcm/brcmfmac54591-pcie.clm_blob -> ../cypress/cyfmac54591-pcie.clm_blob
+
+Licence: Redistributable. See LICENCE.cypress for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.cypress
+
+File: "brcm/brcmfmac43241b4-sdio.Advantech-MICA-071.txt"
+File: "brcm/brcmfmac43241b4-sdio.Intel Corp.-VALLEYVIEW C0 PLATFORM.txt"
+File: "brcm/brcmfmac4330-sdio.Prowise-PT301.txt"
+File: "brcm/brcmfmac43340-sdio.Insyde-VESPA2.txt"
+File: "brcm/brcmfmac43340-sdio.ASUSTeK COMPUTER INC.-TF103CE.txt"
+File: "brcm/brcmfmac43340-sdio.meegopad-t08.txt"
+File: "brcm/brcmfmac43340-sdio.pov-tab-p1006w-data.txt"
+File: "brcm/brcmfmac43340-sdio.predia-basic.txt"
+File: "brcm/brcmfmac43362-sdio.ASUSTeK COMPUTER INC.-ME176C.txt"
+File: "brcm/brcmfmac43362-sdio.WC121.txt"
+File: "brcm/brcmfmac43362-sdio.cubietech,cubietruck.txt"
+Link: brcm/brcmfmac43362-sdio.kobo,aura.txt -> brcmfmac43362-sdio.WC121.txt
+Link: brcm/brcmfmac43362-sdio.kobo,tolino-shine2hd.txt -> brcmfmac43362-sdio.WC121.txt
+Link: brcm/brcmfmac43362-sdio.lemaker,bananapro.txt -> brcmfmac43362-sdio.cubietech,cubietruck.txt
+File: "brcm/brcmfmac43430a0-sdio.ilife-S806.txt"
+File: "brcm/brcmfmac43430a0-sdio.jumper-ezpad-mini3.txt"
+File: "brcm/brcmfmac43430a0-sdio.ONDA-V80 PLUS.txt"
+File: "brcm/brcmfmac43430-sdio.AP6212.txt"
+Link: brcm/brcmfmac43430-sdio.sinovoip,bpi-m2-plus.txt -> brcmfmac43430-sdio.AP6212.txt
+Link: brcm/brcmfmac43430-sdio.sinovoip,bpi-m2-zero.txt -> brcmfmac43430-sdio.AP6212.txt
+Link: brcm/brcmfmac43430-sdio.sinovoip,bpi-m2-ultra.txt -> brcmfmac43430-sdio.AP6212.txt
+Link: brcm/brcmfmac43430-sdio.sinovoip,bpi-m3.txt -> brcmfmac43430-sdio.AP6212.txt
+Link: brcm/brcmfmac43430-sdio.sinovoip,bananapi-m64.txt -> brcmfmac43430-sdio.AP6212.txt
+Link: brcm/brcmfmac43430-sdio.friendlyarm,nanopi-neo4.txt -> brcmfmac43430-sdio.AP6212.txt
+Link: brcm/brcmfmac43430-sdio.friendlyarm,nanopi-r1.txt -> brcmfmac43430-sdio.AP6212.txt
+Link: brcm/brcmfmac43430-sdio.starfive,visionfive-v1.txt -> brcmfmac43430-sdio.AP6212.txt
+Link: brcm/brcmfmac43430-sdio.beagle,beaglev-starlight-jh7100-a1.txt -> brcmfmac43430-sdio.AP6212.txt
+Link: brcm/brcmfmac43430-sdio.beagle,beaglev-starlight-jh7100-r0.txt -> brcmfmac43430-sdio.AP6212.txt
+Link: brcm/brcmfmac43430-sdio.ultrapower,taiqicat-a01.txt -> brcmfmac43430-sdio.AP6212.txt
+File: "brcm/brcmfmac43430-sdio.Hampoo-D2D3_Vi8A1.txt"
+File: "brcm/brcmfmac43430-sdio.ilife-S806.txt"
+File: "brcm/brcmfmac43430-sdio.MUR1DX.txt"
+File: "brcm/brcmfmac43430-sdio.raspberrypi,3-model-b.txt"
+Link: brcm/brcmfmac43430-sdio.raspberrypi,model-zero-w.txt -> brcmfmac43430-sdio.raspberrypi,3-model-b.txt
+Link: brcm/brcmfmac43430-sdio.raspberrypi,model-zero-2-w.txt -> brcmfmac43430-sdio.raspberrypi,3-model-b.txt
+File: "brcm/brcmfmac43455-sdio.acepc-t8.txt"
+File: "brcm/brcmfmac43455-sdio.raspberrypi,3-model-b-plus.txt"
+Link: brcm/brcmfmac43455-sdio.raspberrypi,3-model-a-plus.txt -> brcmfmac43455-sdio.raspberrypi,3-model-b-plus.txt
+File: "brcm/brcmfmac43455-sdio.raspberrypi,4-model-b.txt"
+Link: brcm/brcmfmac43455-sdio.raspberrypi,4-compute-module.txt -> brcmfmac43455-sdio.raspberrypi,4-model-b.txt
+Link: brcm/brcmfmac43455-sdio.raspberrypi,5-model-b.txt -> brcmfmac43455-sdio.raspberrypi,4-model-b.txt
+Link: brcm/brcmfmac43455-sdio.raspberrypi,500.txt -> brcmfmac43455-sdio.raspberrypi,4-model-b.txt
+Link: brcm/brcmfmac43455-sdio.raspberrypi,5-compute-module.txt -> brcmfmac43455-sdio.raspberrypi,4-model-b.txt
+Link: brcm/brcmfmac43455-sdio.Raspberry\ Pi\ Foundation-Raspberry\ Pi\ 4\ Model\ B.txt -> brcmfmac43455-sdio.raspberrypi,4-model-b.txt
+Link: brcm/brcmfmac43455-sdio.Raspberry\ Pi\ Foundation-Raspberry\ Pi\ Compute\ Module\ 4.txt -> brcmfmac43455-sdio.raspberrypi,4-model-b.txt
+File: "brcm/brcmfmac43455-sdio.MINIX-NEO Z83-4.txt"
+File: "brcm/brcmfmac43455-sdio.Radxa-ROCK Pi X.txt"
+File: "brcm/brcmfmac4356-pcie.gpd-win-pocket.txt"
+File: "brcm/brcmfmac4356-pcie.Intel Corporation-CHERRYVIEW D1 PLATFORM.txt"
+File: "brcm/brcmfmac4356-pcie.Xiaomi Inc-Mipad2.txt"
+File: brcm/brcmfmac4356-sdio.AP6356S.txt
+Link: brcm/brcmfmac4356-sdio.firefly,firefly-rk3399.txt -> brcmfmac4356-sdio.AP6356S.txt
+Link: brcm/brcmfmac4356-sdio.friendlyarm,nanopi-m4.txt -> brcmfmac4356-sdio.AP6356S.txt
+Link: brcm/brcmfmac4356-sdio.friendlyarm,nanopc-t4.txt -> brcmfmac4356-sdio.AP6356S.txt
+Link: brcm/brcmfmac4356-sdio.khadas,vim2.txt -> brcmfmac4356-sdio.AP6356S.txt
+Link: brcm/brcmfmac4356-sdio.vamrs,rock960.txt -> brcmfmac4356-sdio.AP6356S.txt
+File: brcm/brcmfmac43455-sdio.AW-CM256SM.txt
+Link: brcm/brcmfmac43455-sdio.beagle,am5729-beagleboneai.txt -> brcmfmac43455-sdio.AW-CM256SM.txt
+Link: brcm/brcmfmac43455-sdio.khadas,vim.txt -> brcmfmac43455-sdio.AW-CM256SM.txt
+Link: brcm/brcmfmac43455-sdio.pine64,pinebook-pro.txt -> brcmfmac43455-sdio.AW-CM256SM.txt
+Link: brcm/brcmfmac43455-sdio.pine64,pinenote-v1.1.txt -> brcmfmac43455-sdio.AW-CM256SM.txt
+Link: brcm/brcmfmac43455-sdio.pine64,pinenote-v1.2.txt -> brcmfmac43455-sdio.AW-CM256SM.txt
+Link: brcm/brcmfmac43455-sdio.pine64,pinephone-pro.txt -> brcmfmac43455-sdio.AW-CM256SM.txt
+Link: brcm/brcmfmac43455-sdio.pine64,quartz64-a.txt -> brcmfmac43455-sdio.AW-CM256SM.txt
+Link: brcm/brcmfmac43455-sdio.pine64,quartz64-b.txt -> brcmfmac43455-sdio.AW-CM256SM.txt
+Link: brcm/brcmfmac43455-sdio.pine64,rockpro64-v2.0.txt -> brcmfmac43455-sdio.AW-CM256SM.txt
+Link: brcm/brcmfmac43455-sdio.pine64,rockpro64-v2.1.txt -> brcmfmac43455-sdio.AW-CM256SM.txt
+Link: brcm/brcmfmac43455-sdio.pine64,soquartz-model-a.txt -> brcmfmac43455-sdio.AW-CM256SM.txt
+Link: brcm/brcmfmac43455-sdio.pine64,soquartz-cm4io.txt -> brcmfmac43455-sdio.AW-CM256SM.txt
+Link: brcm/brcmfmac43455-sdio.pine64,soquartz-blade.txt -> brcmfmac43455-sdio.AW-CM256SM.txt
+
+Licence: GPLv2. See GPL-2.0 for details.
+SPDX-License-Identifier: GPL-2.0-only
+
+--------------------------------------------------------------------------
+
+Driver: rtl8192cu - Realtek 802.11n WLAN driver for RTL8192CU
+
+File: rtlwifi/rtl8192cufw.bin
+File: rtlwifi/rtl8192cufw_A.bin
+File: rtlwifi/rtl8192cufw_B.bin
+File: rtlwifi/rtl8192cufw_TMSC.bin
+Info: From Vendor's rtl8188C_8192C_usb_linux_v4.0.1_6911.20130308 driver
+      All files extracted from driver/hal/rtl8192c/usb/Hal8192CUHWImg.c
+      Relevant variables (CONFIG_BT_COEXISTENCE not set):
+        - rtlwifi/rtl8192cufw_A.bin: Rtl8192CUFwUMCACutImgArray
+        - rtlwifi/rtl8192cufw_B.bin: Rtl8192CUFwUMCBCutImgArray
+        - rtlwifi/rtl8192cufw_TMSC.bin: Rtl8192CUFwTSMCImgArray
+
+Licence: Redistributable. See LICENCE.rtlwifi_firmware.txt for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.rtlwifi_firmware.txt
+
+--------------------------------------------------------------------------
+
+Driver: rtl8723be - Realtek 802.11n WLAN driver for RTL8723BE
+
+Info: From Vendor's realtek/rtlwifi_linux_mac80211_0019.0320.2014V628 driver
+File: rtlwifi/rtl8723befw.bin
+Info: Update to version 36 - Sent by Realtek
+File: rtlwifi/rtl8723befw_36.bin
+
+Licence: Redistributable. See LICENCE.rtlwifi_firmware.txt for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.rtlwifi_firmware.txt
+
+--------------------------------------------------------------------------
+
+Driver: rtl8188ee - Realtek 802.11n WLAN driver for RTL8188EE
+
+Info: Taken from Realtek version rtl_92ce_92se_92de_8723ae_88ee_linux_mac80211_0010.0109.2013
+File: rtlwifi/rtl8188efw.bin
+
+Licence: Redistributable. See LICENCE.rtlwifi_firmware.txt for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.rtlwifi_firmware.txt
+
+--------------------------------------------------------------------------
+
+Driver: rtl8821ae - Realtek 802.11n WLAN driver for RTL8812AE
+
+Info: From Vendor's realtek/rtlwifi_linux_mac80211_0019.0320.2014V628 driver
+File: rtlwifi/rtl8812aefw.bin
+File: rtlwifi/rtl8812aefw_wowlan.bin
+
+Licence: Redistributable. See LICENCE.rtlwifi_firmware.txt for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.rtlwifi_firmware.txt
+
+--------------------------------------------------------------------------
+
+Driver: rtl8821ae - Realtek 802.11n WLAN driver for RTL8821AE
+
+Info: From Vendor's realtek/rtlwifi_linux_mac80211_0019.0320.2014V628 driver
+File: rtlwifi/rtl8821aefw.bin
+File: rtlwifi/rtl8821aefw_wowlan.bin
+Info: Update to version 29 - Sent by Realtek
+File: rtlwifi/rtl8821aefw_29.bin
+
+Licence: Redistributable. See LICENCE.rtlwifi_firmware.txt for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.rtlwifi_firmware.txt
+
+--------------------------------------------------------------------------
+
+Driver: rtw88 - Realtek 802.11ac WLAN driver for RTL8822BE and RTL8822CE
+
+Info: Sent to Larry Finger by Realtek engineer Yan-Hsuan Chuang <yhchuang@realtek.com>
+File: rtw88/rtw8821a_fw.bin
+File: rtw88/rtw8822b_fw.bin
+File: rtw88/rtw8822c_fw.bin
+File: rtw88/rtw8822c_wow_fw.bin
+File: rtw88/README
+File: rtw88/rtw8723b_fw.bin
+File: rtw88/rtw8723d_fw.bin
+File: rtw88/rtw8821c_fw.bin
+File: rtw88/rtw8703b_fw.bin
+File: rtw88/rtw8703b_wow_fw.bin
+File: rtw88/rtw8812a_fw.bin
+File: rtw88/rtw8814a_fw.bin
+
+Licence: Redistributable. See LICENCE.rtlwifi_firmware.txt for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.rtlwifi_firmware.txt
+
+Info:
+    These firmware should be put under /lib/firmware/rtw88/
+    And note that the rtw88 driver is able to support wake-on-wireless LAN
+    for RTL8822C devices, after kernel v5.6+. So, make sure the firmware
+    rtw88/rtw8822c_wow_fw.bin is also packed, otherwise the firmware load
+    fail could be a problem.
+    Although RTL8723D and RTL8703B devices are 802.11n devices, they
+    are also supported by rtw88 because the hardware arch is similar.
+
+--------------------------------------------------------------------------
+
+Driver: rtw89 - Realtek 802.11ax and 802.11be WLAN driver
+
+File: rtw89/rtw8851b_fw.bin
+File: rtw89/rtw8851b_fw-1.bin
+File: rtw89/rtw8852a_fw.bin
+File: rtw89/rtw8852a_fw-1.bin
+File: rtw89/rtw8852b_fw.bin
+File: rtw89/rtw8852b_fw-1.bin
+File: rtw89/rtw8852b_fw-2.bin
+File: rtw89/rtw8852bt_fw.bin
+File: rtw89/rtw8852bt_fw-1.bin
+File: rtw89/rtw8852c_fw.bin
+File: rtw89/rtw8852c_fw-1.bin
+File: rtw89/rtw8852c_fw-2.bin
+File: rtw89/rtw8922a_fw.bin
+File: rtw89/rtw8922a_fw-1.bin
+File: rtw89/rtw8922a_fw-2.bin
+File: rtw89/rtw8922a_fw-3.bin
+File: rtw89/rtw8922a_fw-4.bin
+File: rtw89/rtw8922d_fw.bin
+File: rtw89/rtw8922d_fw-1.bin
+File: rtw89/rtw8922ds_fw.bin
+File: rtw89/rtw8922ds_fw-1.bin
+File: rtw89/board_elm.bin
+
+Licence: Redistributable. See LICENCE.rtlwifi_firmware.txt for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.rtlwifi_firmware.txt
+
+   These firmware support 802.11ax chips including RTL8851B, RTL8852A,
+   RTL8852B, RTL8852BT and RTL8852C and 802.11be chip including RTL8922A.
+
+--------------------------------------------------------------------------
+
+Driver: rtl8192ee - Realtek 802.11n WLAN driver for RTL8192EE
+
+Info: Initial version taken from Realtek version
+      rtl_92ce_92se_92de_8723ae_88ee_8723be_92ee_linux_mac80211_0017.1224.2013
+      Updated Jan. 14, 2015 with file added by Realtek to
+      http://github.com/lwfinger/rtlwifi_new.git.
+      Same firmware rtl8192eu_nic.bin so just link them
+Link: rtlwifi/rtl8192eefw.bin -> rtl8192eu_nic.bin
+
+Licence: Redistributable. See LICENCE.rtlwifi_firmware.txt for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.rtlwifi_firmware.txt
+
+--------------------------------------------------------------------------
+
+Driver: rtl8xxxu - Realtek 802.11n WLAN driver for RTL8XXX USB devices
+
+Info: rtl8723au taken from Realtek driver
+      rtl8723A_WiFi_linux_v4.1.3_6044.20121224
+      Firmware is embedded in the driver as data statements. This info
+      has been extracted into a binary file.
+File: rtlwifi/rtl8723aufw_A.bin
+File: rtlwifi/rtl8723aufw_B.bin
+File: rtlwifi/rtl8723aufw_B_NoBT.bin
+
+Info: rtl8723bu taken from Realtek driver
+      rtl8723BU_WiFi_linux_v4.3.16_14189.20150519_BTCOEX20150119-5844
+      Firmware is embedded in the driver as data statements. This info
+      has been extracted into a binary file.
+File: rtlwifi/rtl8723bu_nic.bin
+File: rtlwifi/rtl8723bu_wowlan.bin
+File: rtlwifi/rtl8723bu_ap_wowlan.bin
+
+Info: rtl8192eu taken from Realtek driver
+      rtl8192EU_WiFi_linux_v5.11.2.1-18-g8e7df912b.20210527_COEX20171113-0047
+      Firmware is embedded in the driver as data statements. This info
+      has been extracted into a binary file.
+File: rtlwifi/rtl8192eu_nic.bin
+Version: 35.7
+File: rtlwifi/rtl8192eu_wowlan.bin
+Version: 35.7
+File: rtlwifi/rtl8192eu_ap_wowlan.bin
+Version: 18.0
+
+Info: rtl8188fu taken from Realtek driver
+      RTL8188FU_Linux_v4.3.23.6_20964.20170110
+      Firmware was embedded in the driver as data statements. This info
+      has been extracted into a binary file.
+File: rtlwifi/rtl8188fufw.bin
+
+File: rtlwifi/rtl8710bufw_SMIC.bin
+Version: 16.0
+File: rtlwifi/rtl8710bufw_UMC.bin
+Version: 16.0
+
+Info: rtl8188eu taken from Realtek driver version
+      v5.2.2.4_25483.20171222.
+      Firmware is embedded in the driver as data statements. This info
+      has been extracted into a binary file.
+File: rtlwifi/rtl8188eufw.bin
+Version: 28.0
+
+Info: rtl8192fu taken from Realtek driver version
+      v5.15.2-53-g9bfbc74cf.20230615_COEX20220422-2b07.
+      Firmware is embedded in the driver as data statements. This info
+      has been extracted into a binary file.
+File: rtlwifi/rtl8192fufw.bin
+Version: 7.3
+
+Licence: Redistributable. See LICENCE.rtlwifi_firmware.txt for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.rtlwifi_firmware.txt
+
+--------------------------------------------------------------------------
+
+Driver: DFU Driver for Atheros bluetooth chipset AR3012
+
+File: ar3k/AthrBT_0x01020001.dfu
+File: ar3k/ramps_0x01020001_26.dfu
+File: ar3k/AthrBT_0x01020200.dfu
+File: ar3k/ramps_0x01020200_26.dfu
+File: ar3k/ramps_0x01020200_40.dfu
+File: ar3k/AthrBT_0x31010000.dfu
+File: ar3k/ramps_0x31010000_40.dfu
+File: ar3k/AthrBT_0x11020000.dfu
+File: ar3k/ramps_0x11020000_40.dfu
+File: ar3k/ramps_0x01020201_26.dfu
+File: ar3k/ramps_0x01020201_40.dfu
+File: ar3k/AthrBT_0x41020000.dfu
+File: ar3k/ramps_0x41020000_40.dfu
+File: ar3k/AthrBT_0x11020100.dfu
+File: ar3k/ramps_0x11020100_40.dfu
+File: ar3k/AthrBT_0x31010100.dfu
+File: ar3k/ramps_0x31010100_40.dfu
+
+Licence: Redistributable. See LICENCE.atheros_firmware for details
+SPDX-License-Identifier: LicenseRef-LICENCE.atheros_firmware
+
+--------------------------------------------------------------------------
+
+Driver: DFU Driver for Atheros bluetooth chipset AR3012
+
+File: ar3k/AthrBT_0x01020201.dfu
+File: ar3k/1020201coex/ramps_0x01020201_26_HighPriority.dfu
+
+Licence: Redistributable. See LICENSE.QualcommAtheros_ar3k for details
+SPDX-License-Identifier: LicenseRef-LICENSE.QualcommAtheros_ar3k
+
+--------------------------------------------------------------------------
+
+Driver: ath10k - Qualcomm Atheros support for QCA988x family of chips
+
+File: ath10k/QCA988X/hw2.0/board.bin
+File: ath10k/QCA988X/hw2.0/firmware-4.bin
+Version: 10.2.4.45
+File: ath10k/QCA988X/hw2.0/notice_ath10k_firmware-4.txt
+File: ath10k/QCA988X/hw2.0/firmware-5.bin
+Version: 10.2.4-1.0-00047
+File: ath10k/QCA988X/hw2.0/notice_ath10k_firmware-5.txt
+File: ath10k/QCA6174/hw2.1/board.bin
+File: ath10k/QCA6174/hw2.1/board-2.bin
+File: ath10k/QCA6174/hw2.1/firmware-5.bin
+Version: SW_RM.1.1.1-00157-QCARMSWPZ-1
+File: ath10k/QCA6174/hw2.1/notice_ath10k_firmware-5.txt
+File: ath10k/QCA6174/hw3.0/board.bin
+File: ath10k/QCA6174/hw3.0/board-2.bin
+File: ath10k/QCA6174/hw3.0/firmware-4.bin
+Version: WLAN.RM.2.0-00180-QCARMSWPZ-1
+File: ath10k/QCA6174/hw3.0/notice_ath10k_firmware-4.txt
+File: ath10k/QCA6174/hw3.0/firmware-6.bin
+Version: WLAN.RM.4.4.1-00309-
+File: ath10k/QCA6174/hw3.0/notice_ath10k_firmware-6.txt
+File: ath10k/QCA6174/hw3.0/firmware-sdio-6.bin
+Version: WLAN.RMH.4.4.1-00174
+File: ath10k/QCA6174/hw3.0/notice_ath10k_firmware-sdio-6.txt
+File: ath10k/QCA9377/hw1.0/board.bin
+File: ath10k/QCA9377/hw1.0/board-2.bin
+File: ath10k/QCA9377/hw1.0/firmware-5.bin
+Version: WLAN.TF.1.0-00002-QCATFSWPZ-5
+File: ath10k/QCA9377/hw1.0/notice_ath10k_firmware-5.txt
+File: ath10k/QCA9377/hw1.0/firmware-sdio-5.bin
+Version: WLAN.TF.1.1.1-00061-QCATFSWPZ-1
+File: ath10k/QCA9377/hw1.0/notice_ath10k_firmware-sdio-5.txt
+File: ath10k/QCA99X0/hw2.0/board-2.bin
+File: ath10k/QCA99X0/hw2.0/firmware-5.bin
+Version: 10.4.1.00030-1
+File: ath10k/QCA99X0/hw2.0/notice_ath10k_firmware-5.txt
+File: ath10k/QCA4019/hw1.0/board-2.bin
+File: ath10k/QCA4019/hw1.0/firmware-5.bin
+Version: 10.4-3.6-00140
+File: ath10k/QCA4019/hw1.0/notice_ath10k_firmware-5.txt
+File: ath10k/QCA9887/hw1.0/board.bin
+File: ath10k/QCA9887/hw1.0/firmware-5.bin
+Version: 10.2.4-1.0-00047
+File: ath10k/QCA9887/hw1.0/notice_ath10k_firmware-5.txt
+File: ath10k/QCA9888/hw2.0/board-2.bin
+File: ath10k/QCA9888/hw2.0/firmware-5.bin
+Version: 10.4-3.9.0.2-00157
+File: ath10k/QCA9888/hw2.0/notice_ath10k_firmware-5.txt
+File: ath10k/QCA9984/hw1.0/board-2.bin
+File: ath10k/QCA9984/hw1.0/firmware-5.bin
+Version: 10.4-3.9.0.2-00157
+File: ath10k/QCA9984/hw1.0/notice_ath10k_firmware-5.txt
+File: ath10k/QCA9377/hw1.0/firmware-6.bin
+Version: WLAN.TF.2.1-00021-QCARMSWP-1
+File: ath10k/QCA9377/hw1.0/notice_ath10k_firmware-6.txt
+File: ath10k/WCN3990/hw1.0/board-2.bin
+File: ath10k/WCN3990/hw1.0/firmware-5.bin
+File: ath10k/WCN3990/hw1.0/wlanmdsp.mbn
+Link: qcom/sdm845/wlanmdsp.mbn -> ../../ath10k/WCN3990/hw1.0/wlanmdsp.mbn
+Link: qcom/sdm845/SHIFT/axolotl/wlanmdsp.mbn -> ../../../../ath10k/WCN3990/hw1.0/wlanmdsp.mbn
+Version: WLAN.HL.2.0-01387-QCAHLSWMTPLZ-1
+File: ath10k/WCN3990/hw1.0/notice.txt_wlanmdsp
+File: ath10k/WCN3990/hw1.0/shikra/firmware-5.bin
+File: ath10k/WCN3990/hw1.0/shikra/wlanmdsp.mbn
+Link: qcom/shikra/wlanmdsp.mbn -> ../../ath10k/WCN3990/hw1.0/shikra/wlanmdsp.mbn
+Version: WLAN.HL.3.3.7.c5-00226-QCAHLSWMTPL-1
+File: ath10k/WCN3990/hw1.0/shikra/notice.txt_wlanmdsp
+
+Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k for details
+SPDX-License-Identifier: LicenseRef-LICENSE.QualcommAtheros_ath10k
+
+File: ath10k/WCN3990/hw1.0/qcm2290/wlanmdsp.mbn
+Version: WLAN.HL.3.3.7.c2-00931-QCAHLSWMTPLZ-1
+Link: ath10k/WCN3990/hw1.0/qrb4210/wlanmdsp.mbn -> ../qcm2290/wlanmdsp.mbn
+Link: qcom/qcm2290/wlanmdsp.mbn -> ../../ath10k/WCN3990/hw1.0/qcm2290/wlanmdsp.mbn
+Link: qcom/qrb4210/wlanmdsp.mbn -> ../../ath10k/WCN3990/hw1.0/qcm2290/wlanmdsp.mbn
+File: ath10k/WCN3990/hw1.0/qcm2290/firmware-5.bin
+Link: ath10k/WCN3990/hw1.0/qrb4210/firmware-5.bin -> ../qcm2290/firmware-5.bin
+
+Licence: Redistributable. See LICENSE.qcom and NOTICE.qcom for details
+SPDX-License-Identifier: LicenseRef-LICENSE.qcom
+
+--------------------------------------------------------------------------
+
+Driver: ath11k - Qualcomm Technologies 802.11ax chipset support
+
+File: ath11k/IPQ6018/hw1.0/board-2.bin
+File: ath11k/IPQ6018/hw1.0/m3_fw.b00
+File: ath11k/IPQ6018/hw1.0/m3_fw.b01
+File: ath11k/IPQ6018/hw1.0/m3_fw.b02
+File: ath11k/IPQ6018/hw1.0/m3_fw.flist
+File: ath11k/IPQ6018/hw1.0/m3_fw.mdt
+File: ath11k/IPQ6018/hw1.0/q6_fw.b00
+File: ath11k/IPQ6018/hw1.0/q6_fw.b01
+File: ath11k/IPQ6018/hw1.0/q6_fw.b02
+File: ath11k/IPQ6018/hw1.0/q6_fw.b03
+File: ath11k/IPQ6018/hw1.0/q6_fw.b04
+File: ath11k/IPQ6018/hw1.0/q6_fw.b05
+File: ath11k/IPQ6018/hw1.0/q6_fw.b07
+File: ath11k/IPQ6018/hw1.0/q6_fw.b08
+File: ath11k/IPQ6018/hw1.0/q6_fw.flist
+File: ath11k/IPQ6018/hw1.0/q6_fw.mdt
+Version: WLAN.HK.2.7.0.1-02409-QCAHKSWPL_SILICONZ-1
+File: ath11k/IPQ6018/hw1.0/Notice.txt
+File: ath11k/IPQ8074/hw2.0/board-2.bin
+File: ath11k/IPQ8074/hw2.0/m3_fw.b00
+File: ath11k/IPQ8074/hw2.0/m3_fw.b01
+File: ath11k/IPQ8074/hw2.0/m3_fw.b02
+File: ath11k/IPQ8074/hw2.0/m3_fw.flist
+File: ath11k/IPQ8074/hw2.0/m3_fw.mdt
+File: ath11k/IPQ8074/hw2.0/q6_fw.b00
+File: ath11k/IPQ8074/hw2.0/q6_fw.b01
+File: ath11k/IPQ8074/hw2.0/q6_fw.b02
+File: ath11k/IPQ8074/hw2.0/q6_fw.b03
+File: ath11k/IPQ8074/hw2.0/q6_fw.b04
+File: ath11k/IPQ8074/hw2.0/q6_fw.b05
+File: ath11k/IPQ8074/hw2.0/q6_fw.b07
+File: ath11k/IPQ8074/hw2.0/q6_fw.b08
+File: ath11k/IPQ8074/hw2.0/q6_fw.flist
+File: ath11k/IPQ8074/hw2.0/q6_fw.mdt
+Version: WLAN.HK.2.9.0.1-02146-QCAHKSWPL_SILICONZ-1
+File: ath11k/IPQ8074/hw2.0/Notice.txt
+File: ath11k/QCA6390/hw2.0/board-2.bin
+File: ath11k/QCA6390/hw2.0/amss.bin
+File: ath11k/QCA6390/hw2.0/m3.bin
+Version: WLAN.HST.1.0.1-05266-QCAHSTSWPLZ_V2_TO_X86-1
+File: ath11k/QCA6390/hw2.0/Notice.txt
+File: ath11k/WCN6855/hw2.0/regdb.bin
+File: ath11k/WCN6855/hw2.0/board-2.bin
+File: ath11k/WCN6855/hw2.0/amss.bin
+File: ath11k/WCN6855/hw2.0/m3.bin
+Version: WLAN.HSP.1.1-03125-QCAHSPSWPL_V1_V2_SILICONZ_LITE-3.6510.41
+File: ath11k/WCN6855/hw2.0/Notice.txt
+File: ath11k/WCN6855/hw2.0/nfa765/amss.bin
+File: ath11k/WCN6855/hw2.0/nfa765/m3.bin
+Version: WLAN.HSP.1.1-04866.5-QCAHSPSWPL_V1_V2_SILICONZ_IOE-1
+File: ath11k/WCN6855/hw2.0/nfa765/Notice.txt
+Link: ath11k/WCN6855/hw2.1/regdb.bin -> ../hw2.0/regdb.bin
+Link: ath11k/WCN6855/hw2.1/board-2.bin -> ../hw2.0/board-2.bin
+Link: ath11k/WCN6855/hw2.1/amss.bin -> ../hw2.0/amss.bin
+Link: ath11k/WCN6855/hw2.1/m3.bin -> ../hw2.0/m3.bin
+Link: ath11k/WCN6855/hw2.1/nfa765/amss.bin -> ../../hw2.0/nfa765/amss.bin
+Link: ath11k/WCN6855/hw2.1/nfa765/m3.bin -> ../../hw2.0/nfa765/m3.bin
+File: ath11k/QCN9074/hw1.0/board-2.bin
+File: ath11k/QCN9074/hw1.0/.notice
+File: ath11k/QCN9074/hw1.0/amss.bin
+File: ath11k/QCN9074/hw1.0/m3.bin
+Version: WLAN.HK.2.9.0.1-02175-QCAHKSWPL_SILICONZ-2
+File: ath11k/QCN9074/hw1.0/Notice.txt
+File: ath11k/WCN6750/hw1.0/board-2.bin
+File: ath11k/WCN6750/hw1.0/sc7280/wpss.mbn
+Link: ath11k/WCN6750/hw1.0/wpss.mdt -> sc7280/wpss.mbn
+Version: WLAN.MSL.1.0.1-01160-QCAMSLSWPLZ-1
+File: ath11k/WCN6750/hw1.0/Notice.txt
+File: ath11k/IPQ5018/hw1.0/board-2.bin
+File: ath11k/IPQ5018/hw1.0/m3_fw.b00
+File: ath11k/IPQ5018/hw1.0/m3_fw.b01
+File: ath11k/IPQ5018/hw1.0/m3_fw.b02
+File: ath11k/IPQ5018/hw1.0/m3_fw.flist
+File: ath11k/IPQ5018/hw1.0/m3_fw.mdt
+File: ath11k/IPQ5018/hw1.0/q6_fw.b00
+File: ath11k/IPQ5018/hw1.0/q6_fw.b01
+File: ath11k/IPQ5018/hw1.0/q6_fw.b02
+File: ath11k/IPQ5018/hw1.0/q6_fw.b03
+File: ath11k/IPQ5018/hw1.0/q6_fw.b04
+File: ath11k/IPQ5018/hw1.0/q6_fw.b05
+File: ath11k/IPQ5018/hw1.0/q6_fw.b07
+File: ath11k/IPQ5018/hw1.0/q6_fw.b08
+File: ath11k/IPQ5018/hw1.0/q6_fw.b09
+File: ath11k/IPQ5018/hw1.0/q6_fw.b10
+File: ath11k/IPQ5018/hw1.0/q6_fw.b11
+File: ath11k/IPQ5018/hw1.0/q6_fw.b13
+File: ath11k/IPQ5018/hw1.0/q6_fw.b14
+File: ath11k/IPQ5018/hw1.0/q6_fw.flist
+File: ath11k/IPQ5018/hw1.0/q6_fw.mdt
+Version: WLAN.HK.2.6.0.1-01300-QCAHKSWPL_SILICONZ-1
+File: ath11k/IPQ5018/hw1.0/Notice.txt
+File: ath11k/QCA2066/hw2.1/board-2.bin
+File: ath11k/QCA2066/hw2.1/amss.bin
+File: ath11k/QCA2066/hw2.1/m3.bin
+Version: WLAN.HSP.1.1-03926.13-QCAHSPSWPL_V2_SILICONZ_CE-2.52297.9
+File: ath11k/QCA2066/hw2.1/Notice.txt
+File: ath11k/QCA6698AQ/hw2.1/board-2.bin
+File: ath11k/QCA6698AQ/hw2.1/amss.bin
+File: ath11k/QCA6698AQ/hw2.1/m3.bin
+Version: WLAN.HSP.1.1-04866.5-QCAHSPSWPL_V1_V2_SILICONZ_IOE-1
+File: ath11k/QCA6698AQ/hw2.1/Notice.txt
+
+Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k for details
+SPDX-License-Identifier: LicenseRef-LICENSE.QualcommAtheros_ath10k
+
+File: ath11k/WCN6750/hw1.0/qcm6490/wpss.mbn
+Version: WLAN.MSL.2.0.c2-00204-QCAMSLSWPLZ-1
+Link: qcom/qcm6490/wpss.mbn -> ../../ath11k/WCN6750/hw1.0/qcm6490/wpss.mbn
+Link: qcom/qcs6490/wpss.mbn -> ../../ath11k/WCN6750/hw1.0/qcm6490/wpss.mbn
+
+Licence: Redistributable. See LICENSE.qcom and NOTICE.qcom for details
+SPDX-License-Identifier: LicenseRef-LICENSE.qcom
+
+--------------------------------------------------------------------------
+
+Driver: ath12k - Qualcomm Technologies Wi-Fi 7 chipset support
+
+File: ath12k/WCN7850/hw2.0/board-2.bin
+File: ath12k/WCN7850/hw2.0/amss.bin
+File: ath12k/WCN7850/hw2.0/m3.bin
+Version: WLAN.HMT.1.1.c7-00108-QCAHMTSWPL_V1.0_V2.0_SILICONZ_UPSTREAM-3
+File: ath12k/WCN7850/hw2.0/Notice.txt
+File: ath12k/WCN7850/hw2.0/ncm865/amss.bin
+File: ath12k/WCN7850/hw2.0/ncm865/m3.bin
+Version: WLAN.IOE_HMT.1.1-00018-QCAHMTSWPL_V1.0_V2.0_SILICONZ-1
+File: ath12k/WCN7850/hw2.0/ncm865/Notice.txt
+File: ath12k/QCN9274/hw2.0/board-2.bin
+File: ath12k/QCN9274/hw2.0/firmware-2.bin
+Version: WLAN.WBE.1.6-01243-QCAHKSWPL_SILICONZ-1
+File: ath12k/QCN9274/hw2.0/Notice.txt
+File: ath12k/IPQ5424/hw1.0/board-2.bin
+File: ath12k/IPQ5424/hw1.0/iu_fw.mbn
+File: ath12k/IPQ5424/hw1.0/q6_fw0.mbn
+File: ath12k/IPQ5424/hw1.0/q6_fw1.mbn
+File: ath12k/IPQ5424/hw1.0/qdsp6sw_dtb.mbn
+Version: WLAN.WBE.1.6-01275-QCAHKSWPL_SILICONZ-1
+File: ath12k/IPQ5424/hw1.0/Notice.txt
+File: ath12k/QCC2072/hw1.0/board-2.bin
+File: ath12k/QCC2072/hw1.0/firmware-2.bin
+Version: WLAN.COL.1.0.c2-00277-QCACOLSWPL_V1_TO_SILICONZ-1
+File: ath12k/QCC2072/hw1.0/Notice.txt
+
+Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k for details
+SPDX-License-Identifier: LicenseRef-LICENSE.QualcommAtheros_ath10k
+
+--------------------------------------------------------------------------
+
+Driver: btusb - Bluetooth USB driver
+
+File: intel/ibt-hw-37.7.bseq
+Version: 1316.02.00
+File: intel/ibt-hw-37.7.10-fw-1.80.2.3.d.bseq
+Version: BT_WilkinsPeak_B3_REL_87_0001
+File: intel/ibt-hw-37.7.10-fw-1.0.2.3.d.bseq
+Version: BT_WilkinsPeak_B3_REL_87_0001
+File: intel/ibt-hw-37.7.10-fw-1.80.1.2d.d.bseq
+Version: BT_WilkinsPeak_B5_REL_42_0001
+File: intel/ibt-hw-37.7.10-fw-1.0.1.2d.d.bseq
+Version: BT_WilkinsPeak_B5_REL_42_0001
+File: intel/ibt-hw-37.8.bseq
+Version: 1339_02.00
+File: intel/ibt-hw-37.8.10-fw-1.10.2.27.d.bseq
+Version: BT_StonePeak_C0_REL_59_0001
+File: intel/ibt-hw-37.8.10-fw-1.10.3.11.e.bseq
+Version: BT_StonePeak_D0_REL_50_0002
+File: intel/ibt-hw-37.8.10-fw-22.50.19.14.f.bseq
+Version: BT_StonePeak_D1_REL_67_1278
+File: intel/ibt-11-5.ddc
+Version: LnP/SfP_REL1294
+File: intel/ibt-11-5.sfi
+Version: BT_LightningPeak_REL0487
+File: intel/ibt-12-16.ddc
+Version: BT_WindStormPeak_REL1299
+File: intel/ibt-12-16.sfi
+Version: BT_WindStormPeak_REL1299
+
+File: intel/ibt-17-16-1.sfi
+File: intel/ibt-17-16-1.ddc
+Link: intel/ibt-17-2.sfi -> ibt-17-16-1.sfi
+Link: intel/ibt-17-2.ddc -> ibt-17-16-1.ddc
+
+File: intel/ibt-18-16-1.sfi
+File: intel/ibt-18-16-1.ddc
+Link: intel/ibt-18-2.sfi -> ibt-18-16-1.sfi
+Link: intel/ibt-18-2.ddc -> ibt-18-16-1.ddc
+Version: BT_Pulsar_REL20425_22.20.2412.20425
+
+File: intel/ibt-17-0-1.sfi
+File: intel/ibt-17-0-1.ddc
+Link: intel/ibt-17-1.sfi -> ibt-17-0-1.sfi
+Link: intel/ibt-17-1.ddc -> ibt-17-0-1.ddc
+Version: BT_JeffersonPeak_A0_B0_REL0201
+
+File: intel/ibt-18-0-1.sfi
+File: intel/ibt-18-0-1.ddc
+Link: intel/ibt-18-1.sfi -> ibt-18-0-1.sfi
+Link: intel/ibt-18-1.ddc -> ibt-18-0-1.ddc
+Version: BT_ThunderPeak_A0_B0_REL0201
+
+File: intel/ibt-20-0-3.sfi
+Version: BT_CyclonePeak_A0_REL53636
+File: intel/ibt-20-0-3.ddc
+Version: BT_CyclonePeak_A0_REL53636
+File: intel/ibt-20-1-3.sfi
+Version: BT_CyclonePeak_A0_REL53636
+File: intel/ibt-20-1-3.ddc
+Version: BT_CyclonePeak_A0_REL53636
+File: intel/ibt-20-1-4.sfi
+Version: BT_CyclonePeak_A0_REL53636
+File: intel/ibt-20-1-4.ddc
+Version: BT_CyclonePeak_A0_REL53636
+
+File: intel/ibt-19-0-4.sfi
+File: intel/ibt-19-0-4.ddc
+Link: intel/ibt-19-0-0.sfi -> ibt-19-0-4.sfi
+Link: intel/ibt-19-0-0.ddc -> ibt-19-0-4.ddc
+Link: intel/ibt-19-0-1.sfi -> ibt-19-0-4.sfi
+Link: intel/ibt-19-0-1.ddc -> ibt-19-0-4.ddc
+Link: intel/ibt-19-0-3.sfi -> ibt-19-0-4.sfi
+Link: intel/ibt-19-0-3.ddc -> ibt-19-0-4.ddc
+Link: intel/ibt-19-16-4.sfi -> ibt-19-0-4.sfi
+Link: intel/ibt-19-16-4.ddc -> ibt-19-0-4.ddc
+Link: intel/ibt-19-32-1.sfi -> ibt-19-0-4.sfi
+Link: intel/ibt-19-32-1.ddc -> ibt-19-0-4.ddc
+Link: intel/ibt-19-32-0.sfi -> ibt-19-0-4.sfi
+Link: intel/ibt-19-32-0.ddc -> ibt-19-0-4.ddc
+Link: intel/ibt-19-32-4.sfi -> ibt-19-0-4.sfi
+Link: intel/ibt-19-32-4.ddc -> ibt-19-0-4.ddc
+Link: intel/ibt-19-240-1.sfi -> ibt-19-0-4.sfi
+Link: intel/ibt-19-240-1.ddc -> ibt-19-0-4.ddc
+Link: intel/ibt-19-240-4.sfi -> ibt-19-0-4.sfi
+Link: intel/ibt-19-240-4.ddc -> ibt-19-0-4.ddc
+Version: BT_Quasar_REL53843_22.180.2607.53843
+
+File: intel/ibt-0041-0041.sfi
+File: intel/ibt-0041-0041.ddc
+File: intel/ibt-0040-0041.sfi
+File: intel/ibt-0040-0041.ddc
+Link: intel/ibt-0040-4150.sfi -> ibt-0040-0041.sfi
+Link: intel/ibt-0040-4150.ddc -> ibt-0040-0041.ddc
+File: intel/ibt-1040-0041.sfi
+File: intel/ibt-1040-0041.ddc
+Link: intel/ibt-1040-4150.sfi -> ibt-1040-0041.sfi
+Link: intel/ibt-1040-4150.ddc -> ibt-1040-0041.ddc
+Link: intel/ibt-0040-1050.sfi -> ibt-0040-0041.sfi
+Link: intel/ibt-0040-1050.ddc -> ibt-0040-0041.ddc
+Link: intel/ibt-1040-1050.sfi -> ibt-1040-0041.sfi
+Link: intel/ibt-1040-1050.ddc -> ibt-1040-0041.ddc
+Version: BT_Solar_REL82200_23.50.26292.82200
+
+File: intel/ibt-0040-1020.sfi
+File: intel/ibt-0040-1020.ddc
+File: intel/ibt-1040-1020.sfi
+File: intel/ibt-1040-1020.ddc
+Link: intel/ibt-0040-2120.sfi -> ibt-0040-1020.sfi
+Link: intel/ibt-0040-2120.ddc -> ibt-0040-1020.ddc
+Link: intel/ibt-1040-2120.sfi -> ibt-1040-1020.sfi
+Link: intel/ibt-1040-2120.ddc -> ibt-1040-1020.ddc
+Version: BT_SolarJfp_REL151_22.180.2405.151
+
+File: intel/ibt-0093-0041.sfi
+File: intel/ibt-0093-0041.ddc
+File: intel/ibt-0093-4150.sfi
+File: intel/ibt-0093-4150.ddc
+File: intel/ibt-0093-1050.sfi
+File: intel/ibt-0093-1050.ddc
+Version: BT_BlazaruHrpGfp_S_REL405_24.00.26304.405
+
+File: intel/ibt-0291-0291.sfi
+File: intel/ibt-0291-0291.ddc
+Version: BT_BlazarU_S_REL125585_24.80.26362.125585
+
+File: intel/ibt-0093-0291.sfi
+File: intel/ibt-0093-0291.ddc
+Version: BT_BlazaruFmpArl_S_REL58_24.70.26333.58
+
+File: intel/ibt-0180-0041.sfi
+File: intel/ibt-0180-0041.ddc
+File: intel/ibt-0180-4150.sfi
+File: intel/ibt-0180-4150.ddc
+File: intel/ibt-0180-1050.sfi
+File: intel/ibt-0180-1050.ddc
+Version: BT_Magnetar_REL104027_23.50.26292.104027
+
+File: intel/ibt-0190-0291.sfi
+File: intel/ibt-0190-0291.ddc
+Version: BT_BlazariGfp_S_REL233_24.00.26071.233
+
+#Below fw files are for BlazarIW for WCL
+File: intel/ibt-1190-0041-iml.sfi
+File: intel/ibt-0190-0041-iml.sfi
+File: intel/ibt-0190-0041-pci.ddc
+File: intel/ibt-0190-0041-pci.sfi
+File: intel/ibt-0190-0041-usb.ddc
+File: intel/ibt-0190-0041-usb.sfi
+File: intel/ibt-1190-0041-pci.ddc
+File: intel/ibt-1190-0041-pci.sfi
+File: intel/ibt-1190-0041-usb.sfi
+File: intel/ibt-1190-0041-usb.ddc
+Version: BT_BlazariGfp_S_REL349_24.00.26304.349
+
+File: intel/ibt-0190-0291-iml.sfi
+File: intel/ibt-0190-0291-usb.ddc
+File: intel/ibt-0190-0291-usb.sfi
+File: intel/ibt-0190-0291-pci.ddc
+File: intel/ibt-0190-0291-pci.sfi
+Version: BT_BlazariFmp_S_REL62_24.70.26333.62
+
+File: intel/ibt-1190-01a1-iml.sfi
+File: intel/ibt-1190-01a1-pci.ddc
+File: intel/ibt-1190-01a1-pci.sfi
+Version: BT_BlazarI_S_REL132931_24.80.26362.132931
+
+File: intel/ibt-00a0-01a1-iml.sfi
+File: intel/ibt-00a0-01a1-pci.ddc
+File: intel/ibt-00a0-01a1-pci.sfi
+File: intel/ibt-00a0-0291-iml.sfi
+File: intel/ibt-00a0-0291-pci.ddc
+File: intel/ibt-00a0-0291-pci.sfi
+Version: BT_Scorpius_S_REL102163_24.80.26362.102163
+
+File: intel/ibt-00a0-0041-iml.sfi
+File: intel/ibt-00a0-0041-pci.ddc
+File: intel/ibt-00a0-0041-pci.sfi
+Version: BT_ScorpiusGfp_S_REL384_24.00.26304.384
+
+Licence: Redistributable. See LICENCE.ibt_firmware for details
+SPDX-License-Identifier: LicenseRef-LICENCE.ibt_firmware
+
+File: rtl_bt/rtl8192ee_fw.bin
+File: rtl_bt/rtl8192eu_fw.bin
+File: rtl_bt/rtl8723a_fw.bin
+File: rtl_bt/rtl8723b_fw.bin
+File: rtl_bt/rtl8723bs_fw.bin
+File: rtl_bt/rtl8723bs_config.bin
+Link: rtl_bt/rtl8723b_config.bin -> rtl8723bs_config.bin
+Link: rtl_bt/rtl8723bs_config-OBDA8723.bin -> rtl8723bs_config.bin
+Link: rtl_bt/rtl8723bs_config-OBDA0623.bin -> rtl8723bs_config.bin
+File: rtl_bt/rtl8723cs_xx_fw.bin
+File: rtl_bt/rtl8723cs_xx_config.bin
+File: rtl_bt/rtl8761a_fw.bin
+Link: rtl_bt/rtl8761a_config.bin -> rtl8761bu_config.bin
+File: rtl_bt/rtl8761b_fw.bin
+File: rtl_bt/rtl8761b_config.bin
+File: rtl_bt/rtl8761bu_fw.bin
+File: rtl_bt/rtl8761bu_config.bin
+File: rtl_bt/rtl8761cu_fw.bin
+File: rtl_bt/rtl8761cu_config.bin
+File: rtl_bt/rtl8812ae_fw.bin
+File: rtl_bt/rtl8821a_fw.bin
+Link: rtl_bt/rtl8821a_config.bin -> rtl8821c_config.bin
+File: rtl_bt/rtl8822b_fw.bin
+File: rtl_bt/rtl8822b_config.bin
+File: rtl_bt/rtl8723d_fw.bin
+Link: rtl_bt/rtl8723d_config.bin -> rtl8821c_config.bin
+File: rtl_bt/rtl8821c_fw.bin
+File: rtl_bt/rtl8821c_config.bin
+File: rtl_bt/rtl8821cs_fw.bin
+Link: rtl_bt/rtl8821cs_config.bin -> rtl8761b_config.bin
+File: rtl_bt/rtl8822cu_fw.bin
+Link: rtl_bt/rtl8822cu_config.bin -> rtl8761bu_config.bin
+File: rtl_bt/rtl8822cs_fw.bin
+File: rtl_bt/rtl8822cs_config.bin
+File: rtl_bt/rtl8852au_fw.bin
+Link: rtl_bt/rtl8852au_config.bin -> rtl8761bu_config.bin
+File: rtl_bt/rtl8852bu_fw.bin
+Link: rtl_bt/rtl8852bu_config.bin -> rtl8761bu_config.bin
+File: rtl_bt/rtl8852cu_fw.bin
+File: rtl_bt/rtl8852cu_fw_v2.bin
+Link: rtl_bt/rtl8852cu_config.bin -> rtl8761bu_config.bin
+File: rtl_bt/rtl8851bu_fw.bin
+Link: rtl_bt/rtl8851bu_config.bin -> rtl8761bu_config.bin
+File: rtl_bt/rtl8852btu_fw.bin
+Link: rtl_bt/rtl8852btu_config.bin -> rtl8761bu_config.bin
+File: rtl_bt/rtl8922au_fw.bin
+File: rtl_bt/rtl8922au_config.bin
+
+Licence: Redistributable. See LICENCE.rtlwifi_firmware.txt for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.rtlwifi_firmware.txt
+
+Info:
+Found in vendor driver, linux_bt_usb_2.11.20140423_8723be.rar
+From https://github.com/troy-tan/driver_store
+Files rtl_bt/rtl8822b_* came directly from Realtek. These files are
+updated on April 14, 2017.
+
+--------------------------------------------------------------------------
+
+Driver: btmtk_usb - Bluetooth USB driver
+
+File: mediatek/mt7650.bin
+Link: mt7650.bin -> mediatek/mt7650.bin
+
+Licence: Redistributable. See LICENCE.ralink_a_mediatek_company_firmware for details
+SPDX-License-Identifier: LicenseRef-LICENCE.ralink_a_mediatek_company_firmware
+
+--------------------------------------------------------------------------
+
+Driver: btqca - Qualcomm Atheros Bluetooth support for QCA61x4 USB chips
+
+File: qca/rampatch_usb_00000200.bin
+File: qca/nvm_usb_00000200.bin
+
+File: qca/rampatch_usb_00000201.bin
+File: qca/nvm_usb_00000201.bin
+
+File: qca/rampatch_usb_00000300.bin
+Version: BTFM.RM.2.2.c3-00031-QCABTFMSWP-1
+File: qca/nvm_usb_00000300.bin
+
+File: qca/rampatch_usb_00000302.bin
+Version: BTFM.RM.4.4.1-00028-QCABTFMSWP-1
+File: qca/nvm_usb_00000302.bin
+File: qca/nvm_usb_00000302_eu.bin
+
+File: qca/rampatch_usb_00130200.bin
+Version: BTFW.HSP.2.0.0-00609-USB_PATCHZ-1
+File: qca/nvm_usb_00130200.bin
+File: qca/nvm_usb_00130200_0104.bin
+File: qca/nvm_usb_00130200_0105.bin
+File: qca/nvm_usb_00130200_0106.bin
+File: qca/nvm_usb_00130200_0107.bin
+File: qca/nvm_usb_00130200_0109.bin
+File: qca/nvm_usb_00130200_0110.bin
+
+File: qca/rampatch_usb_00130201.bin
+Version: BTFW.HSP.2.1.0-00669-USB_UART_PATCHZ-1
+File: qca/nvm_usb_00130201.bin
+File: qca/nvm_usb_00130201_010a.bin
+File: qca/nvm_usb_00130201_010b.bin
+File: qca/nvm_usb_00130201_0303.bin
+File: qca/nvm_usb_00130201_gf.bin
+File: qca/nvm_usb_00130201_gf_010a.bin
+File: qca/nvm_usb_00130201_gf_010b.bin
+File: qca/nvm_usb_00130201_gf_0303.bin
+
+File: qca/QCA2066/rampatch_usb_00130201.bin
+Version: BTFW.HSP.2.1.0-00680-VER_PATCHZ-2
+File: qca/QCA2066/nvm_usb_00130201_030a.bin
+File: qca/QCA2066/nvm_usb_00130201_gf_030a.bin
+
+File: qca/rampatch_usb_00190200.bin
+Version: BTFW.HAMILTON.2.0.0-00799-USB_PATCHZ-5
+File: qca/nvm_usb_00190200.bin
+File: qca/nvm_usb_00190200_0104.bin
+File: qca/nvm_usb_00190200_0106.bin
+File: qca/nvm_usb_00190200_0108.bin
+File: qca/nvm_usb_00190200_0109.bin
+File: qca/nvm_usb_00190200_010a.bin
+File: qca/nvm_usb_00190200_010c.bin
+File: qca/nvm_usb_00190200_010e.bin
+File: qca/nvm_usb_00190200_0110.bin
+File: qca/nvm_usb_00190200_0111.bin
+File: qca/nvm_usb_00190200_0112.bin
+
+Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k and NOTICE.qca for details
+SPDX-License-Identifier: LicenseRef-LICENSE.QualcommAtheros_ath10k
+
+--------------------------------------------------------------------------
+
+Driver: btqca - Qualcomm Atheros Bluetooth support for QCA61x4 serial chips
+
+File: qca/rampatch_00130300.bin
+Version: BTFM.RM.2.2.c3-00031-QCABTFMSWP-1
+File: qca/rampatch_00130302.bin
+Version: BTFM.RM.2.2.c3-00031-QCABTFMSWP-1
+File: qca/rampatch_00230302.bin
+Version: QCA6174_DEV.BLD.0111
+File: qca/nvm_00130300.bin
+File: qca/nvm_00130302.bin
+File: qca/nvm_00230302.bin
+File: qca/rampatch_00440302.bin
+Version: BTFM.RM.4.4.1-00028-QCABTFMSWP-1
+File: qca/nvm_00440302.bin
+File: qca/nvm_00440302_eu.bin
+File: qca/nvm_00440302_i2s_eu.bin
+
+Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k and NOTICE.qca for details
+SPDX-License-Identifier: LicenseRef-LICENSE.QualcommAtheros_ath10k
+
+--------------------------------------------------------------------------
+
+Driver: qca - Qualcomm Atheros Bluetooth support for WCN7750 chips
+
+File: qca/ornbtfw10.tlv
+Version: BTFW.ORNE.1.0.1-00155-PATCH-1
+File: qca/ornnv10.bin
+Version: BTFW.ORNE.1.0.1-00155-PATCH-1
+File: qca/ornbcscal10.bin
+Version: BTFW.ORNE.1.0.1-00155-PATCH-1
+
+Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k and NOTICE.qca for details
+SPDX-License-Identifier: LicenseRef-LICENSE.QualcommAtheros_ath10k
+
+--------------------------------------------------------------------------
+
+Driver: btqca - Qualcomm Atheros Bluetooth support for QCA_QCC2072 chip
+
+File: qca/ornbtfw11.tlv
+Version: BTFW.ORNE.1.1.0-00355-PATCH-1
+File: qca/ornnv11.bin
+Version: BTFW.ORNE.1.1.0-00355-PATCH-1
+File: qca/ornbcscal11.bin
+Version: BTFW.ORNE.1.1.0-00355-PATCH-1
+
+Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k and NOTICE.qca for details
+SPDX-License-Identifier: LicenseRef-LICENSE.QualcommAtheros_ath10k
+
+--------------------------------------------------------------------------
+
+Driver: qca - Qualcomm Atheros Bluetooth support for WCN3950 chips
+
+File: qca/cmbtfw12.tlv
+Version: BTFM.CMC.1.2.0-00218-QCACHROMZ-2
+File: qca/cmbtfw13.tlv
+Version: BTFM.CMC.1.3.0-00184-QCACHROM-1
+File: qca/cmnv12.bin
+File: qca/cmnv13.bin
+File: qca/cmnv13s.bin
+File: qca/cmnv13t.bin
+
+Licence: Redistributable. See LICENSE.qcom and NOTICE.qca for details
+SPDX-License-Identifier: LicenseRef-LICENSE.qcom
+
+--------------------------------------------------------------------------
+
+Driver: qca - Qualcomm Atheros Bluetooth support for WCN3988 chips
+
+File: qca/apbtfw10.tlv
+Version: BTFM.CHE.2.0.0-00082-QCACHROMZ-1
+File: qca/apbtfw11.tlv
+Version: BTFM.CHE.2.1.5.c5-00060-QCACHROMZ-3
+File: qca/apnv10.bin
+File: qca/apnv11.bin
+
+Licence: Redistributable. See LICENSE.qcom and NOTICE.qca for details
+SPDX-License-Identifier: LicenseRef-LICENSE.qcom
+
+--------------------------------------------------------------------------
+
+Driver: qca - Qualcomm Atheros Bluetooth support for WCN399x chips
+
+File: qca/crbtfw21.tlv
+Version: BTFM.CHE.2.1.3.c7-00024-QCACHROM-1
+File: qca/crnv21.bin
+File: qca/crbtfw32.tlv
+Version: BTFM.CHE.3.2.0.c2-00044-QCACHROMZ-1
+File: qca/crnv32.bin
+File: qca/crnv32u.bin
+
+Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k and NOTICE.qca for details
+SPDX-License-Identifier: LicenseRef-LICENSE.QualcommAtheros_ath10k
+
+--------------------------------------------------------------------------
+
+Driver: qca - Qualcomm Atheros Bluetooth support for WCN6750 chips
+
+File: qca/msbtfw11.mbn
+Version: BTFW.MOSELLE.1.1.3-00106-MSL_PATCHZ-1
+File: qca/msbtfw11.tlv
+Version: BTFW.MOSELLE.1.1.3-00106-MSL_PATCHZ-1
+File: qca/msnv11.bin
+Version: BTFW.MOSELLE.1.1.3-00106-MSL_PATCHZ-1
+File: qca/msnv11.b0a
+Version: BTFW.MOSELLE.1.1.3-00106-MSL_PATCHZ-1
+File: qca/msnv11.b09
+Version: BTFW.MOSELLE.1.1.3-00106-MSL_PATCHZ-1
+
+Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k and NOTICE.qca for details
+SPDX-License-Identifier: LicenseRef-LICENSE.QualcommAtheros_ath10k
+
+--------------------------------------------------------------------------
+
+Driver: qca - Qualcomm Atheros Bluetooth support for WCN685x uart interface chips
+
+File: qca/wcnhpbtfw21.tlv
+Version: BTFW.HSP.2.1.0-00660-USB_UART_PATCHZ-6
+File: qca/wcnhpnv21.bin
+File: qca/wcnhpnv21g.bin
+File: qca/wcnhpnv21.b8c
+File: qca/wcnhpnv21.b9f
+File: qca/wcnhpnv21.ba0
+File: qca/wcnhpnv21.ba1
+File: qca/wcnhpnv21.ba2
+File: qca/wcnhpnv21.ba3
+File: qca/wcnhpnv21.ba4
+File: qca/wcnhpnv21.baa
+File: qca/wcnhpnv21.bb8
+File: qca/wcnhpnv21.b10c
+File: qca/wcnhpnv21.b111
+File: qca/wcnhpnv21g.b8c
+File: qca/wcnhpnv21g.b9f
+File: qca/wcnhpnv21g.ba0
+File: qca/wcnhpnv21g.ba1
+File: qca/wcnhpnv21g.ba2
+File: qca/wcnhpnv21g.ba3
+File: qca/wcnhpnv21g.ba4
+File: qca/wcnhpnv21g.baa
+File: qca/wcnhpnv21g.bb8
+File: qca/wcnhpnv21g.b10c
+File: qca/wcnhpnv21g.b111
+
+File: qca/wcnhpbtfw10.tlv
+Version: BTFM.HSP.1.0.0-00978-QCAHSPROMZ-2
+File: qca/wcnhpnv10.bin
+File: qca/wcnhpnv10.b06
+
+Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k and NOTICE.qca for details
+SPDX-License-Identifier: LicenseRef-LICENSE.QualcommAtheros_ath10k
+
+--------------------------------------------------------------------------
+
+Driver: qca - Qualcomm Atheros Bluetooth support for QCA2066 chips
+
+File: qca/hpbtfw21.tlv
+Version: BTFW.HSP.2.1.0-00680-VER_PATCHZ-1
+File: qca/hpnv21.bin
+File: qca/hpnv21g.bin
+File: qca/hpnv21.301
+File: qca/hpnv21.302
+File: qca/hpnv21g.301
+File: qca/hpnv21g.302
+File: qca/hpnv21.309
+File: qca/hpnv21g.309
+File: qca/hpnv21.30a
+File: qca/hpnv21g.30a
+File: qca/hpnv21g.30c
+File: qca/hpnv21.b8c
+File: qca/hpnv21.b9f
+File: qca/hpnv21.ba0
+File: qca/hpnv21.ba1
+File: qca/hpnv21.ba2
+File: qca/hpnv21.ba3
+File: qca/hpnv21.ba4
+File: qca/hpnv21.baa
+File: qca/hpnv21.bb8
+File: qca/hpnv21.b10c
+File: qca/hpnv21.b111
+File: qca/hpnv21g.b8c
+File: qca/hpnv21g.b9f
+File: qca/hpnv21g.ba0
+File: qca/hpnv21g.ba1
+File: qca/hpnv21g.ba2
+File: qca/hpnv21g.ba3
+File: qca/hpnv21g.ba4
+File: qca/hpnv21g.baa
+File: qca/hpnv21g.bb8
+File: qca/hpnv21g.b10c
+File: qca/hpnv21g.b111
+
+Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k and NOTICE.qca for details
+SPDX-License-Identifier: LicenseRef-LICENSE.QualcommAtheros_ath10k
+
+--------------------------------------------------------------------------
+
+Driver: qca - Qualcomm Atheros Bluetooth support for QCA6390 chips
+
+File: qca/htbtfw20.tlv
+Version: BTFM.HST.2.0.0-00943-QCACHROM-1
+File: qca/htnv20.bin
+
+Licence: Redistributable. See LICENSE.qcom and NOTICE.qca for details
+SPDX-License-Identifier: LicenseRef-LICENSE.qcom
+
+--------------------------------------------------------------------------
+
+Driver: qca - Qualcomm Atheros Bluetooth support for WCN7850 chips
+
+File: qca/hmtbtfw20.tlv
+Version: BTFW.HAMILTON.2.0.1-00349-WOS_PATCHZ-2
+File: qca/hmtnv20.b10f
+File: qca/hmtnv20.b112
+File: qca/hmtnv20.b201
+File: qca/hmtnv20.b202
+File: qca/hmtnv20.bin
+
+Licence: Redistributable. See LICENSE.qcom and NOTICE.qca for details
+SPDX-License-Identifier: LicenseRef-LICENSE.qcom
+
+--------------------------------------------------------------------------
+
+Driver: qca - Qualcomm Atheros Bluetooth support for QCA6698AQ chips
+
+File: qca/QCA6698/hpbtfw21.tlv
+Version: BTFW.HSP.2.1.2-00079-PATCH-1
+File: qca/QCA6698/hpnv21.b206
+File: qca/QCA6698/hpnv21.b207
+File: qca/QCA6698/hpnv21.bin
+
+Licence: Redistributable. See LICENSE.qcom and NOTICE.qca for details
+SPDX-License-Identifier: LicenseRef-LICENSE.qcom
+
+--------------------------------------------------------------------------
+
+Driver: btmtk - MediaTek Bluetooth Driver
+
+File: mediatek/mt7622pr2h.bin
+Version: 20180621204904
+File: mediatek/mt7668pr2h.bin
+Version: 20180517181834
+# Note: explicitly commented out, since it's duplicated further down
+# File: mediatek/mt7663pr2h.bin
+# Version: 7663e2ccn04-2006030247
+
+Licence: Redistributable. See LICENCE.mediatek for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.mediatek
+
+--------------------------------------------------------------------------
+
+Driver: mt76x0 - MediaTek MT76x0 Wireless MACs
+
+File: mediatek/mt7610u.bin
+File: mediatek/mt7610e.bin
+Version: 2.6
+File: mediatek/mt7650e.bin
+Version: 1.0.07-b370
+
+Licence: Redistributable. See LICENCE.mediatek for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.mediatek
+
+--------------------------------------------------------------------------
+
+Driver: mt76x2u - MediaTek MT76x2u Wireless MACs
+
+File: mediatek/mt7662u.bin
+Version: 1.5
+
+File: mediatek/mt7662u_rom_patch.bin
+Version: 0.0.2_P48
+
+Licence: Redistributable. See LICENCE.mediatek for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.mediatek
+
+--------------------------------------------------------------------------
+
+Driver: mt7921 - MediaTek MT7921 Wireless MACs
+
+File: mediatek/WIFI_MT7961_patch_mcu_1_2_hdr.bin
+Version: 20260224110909a
+File: mediatek/WIFI_RAM_CODE_MT7961_1.bin
+Version: 20260224110949
+
+Licence: Redistributable. See LICENCE.mediatek for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.mediatek
+
+--------------------------------------------------------------------------
+
+Driver: mt7921 - MediaTek MT7921 bluetooth chipset
+
+File: mediatek/BT_RAM_CODE_MT7961_1_2_hdr.bin
+Version: 20260224111243
+
+Licence: Redistributable. See LICENCE.mediatek for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.mediatek
+
+--------------------------------------------------------------------------
+
+Driver: mt7922 - MediaTek MT7922 Wireless MACs
+
+File: mediatek/WIFI_MT7922_patch_mcu_1_1_hdr.bin
+Version: 20260724143257a
+File: mediatek/WIFI_RAM_CODE_MT7922_1.bin
+Version: 20260724143402
+
+Licence: Redistributable. See LICENCE.mediatek for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.mediatek
+
+--------------------------------------------------------------------------
+
+Driver: mt7922 - MediaTek MT7922 bluetooth chipset
+
+File: mediatek/BT_RAM_CODE_MT7922_1_1_hdr.bin
+Version: 20260724143815
+
+Licence: Redistributable. See LICENCE.mediatek for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.mediatek
+
+--------------------------------------------------------------------------
+
+Driver: mt7925 - MediaTek MT7925 Wireless MACs
+
+File: mediatek/mt7925/WIFI_MT7925_PATCH_MCU_1_1_hdr.bin
+Version: 20261016232915a
+File: mediatek/mt7925/WIFI_RAM_CODE_MT7925_1_1.bin
+Version: 20261016233029
+
+Licence: Redistributable. See LICENCE.mediatek for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.mediatek
+
+--------------------------------------------------------------------------
+
+Driver: mt7925 - MediaTek MT7925 bluetooth chipset
+
+File: mediatek/mt7925/BT_RAM_CODE_MT7925_1_1_hdr.bin
+Version: 20261016233221
+
+Licence: Redistributable. See LICENCE.mediatek for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.mediatek
+
+--------------------------------------------------------------------------
+

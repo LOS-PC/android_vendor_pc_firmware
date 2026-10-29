@@ -1,0 +1,28 @@
+//
+// SPDX-FileCopyrightText: The LineageOS Project
+// SPDX-License-Identifier: Apache-2.0
+//
+
+// amdgpu firmware from upstream linux-firmware (see ../README.md), installed to
+// /vendor/firmware/amdgpu, where ueventd serves it to the amdgpu kernel module
+
+license_kind {
+    name: "LicenseRef-LICENSE.amdgpu",
+    conditions: ["by_exception_only"],
+    url: "https://gitlab.com/kernel-firmware/linux-firmware/-/blob/main/LICENSES/LICENSE.amdgpu",
+}
+
+license {
+    name: "pc_firmware_amdgpu_license",
+    visibility: ["//visibility:private"],
+    license_kinds: ["LicenseRef-LICENSE.amdgpu"],
+    license_text: ["LICENSE"],
+}
+
+prebuilt_firmware {
+    name: "pc_firmware_amdgpu",
+    licenses: ["pc_firmware_amdgpu_license"],
+    srcs: ["*.bin"],
+    sub_dir: "amdgpu",
+    vendor: true,
+}
