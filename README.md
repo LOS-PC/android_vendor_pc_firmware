@@ -8,6 +8,7 @@ ueventd serves it to kernel modules (`firmware_directories` in `ueventd.rc`).
 |---|---|---|---|
 | `amdgpu` | `amdgpu/` | `d0039fd797d7` (2026-10-27) | amdgpu (AMD GPUs) |
 | `intel_gpu` | `i915/`, `xe/` (their `WHENCE` sections) | `d0039fd797d7` (2026-10-27) | i915, xe (Intel GPUs) |
+| `nvidia` | `nvidia/` (the `nouveau` section of `WHENCE`) | `d0039fd797d7` (2026-10-27) | nouveau (NVIDIA GPUs, Pascal to Ada) |
 | `wireless` | Wi-Fi / Bluetooth driver sections of `WHENCE` | `d0039fd797d7` (2026-10-27) | Wi-Fi drivers in `configs/kernel/pc.config`, btusb, btmtk, btqca |
 
 Each directory keeps its upstream licence (`LICENSE`) and its `WHENCE` entries.
@@ -43,6 +44,20 @@ the kernel no longer requests, so they're skipped.
 
 ```bash
 intel_gpu/update.py linux-firmware
+```
+
+### nvidia
+
+`nvidia/update.py` copies the files of the `nouveau` section of `WHENCE` for the chips in
+its `CHIPS` (Pascal, Turing, Ampere and Ada) and regenerates `nvidia/Android.bp` and
+`nvidia/nvidia.mk`. Only the GSP-RM version the kernel loads (`GSP_VERSION`, 535.113.01 for
+6.12) is kept. Most chips share files with another one through `Link:` entries, including
+whole directories (`ga106/gsp` -> `ga102/gsp`, `ad104` -> `ad102`); those are installed as
+symlinks (`install_symlink`), so each GSP image (24 MB for Turing, 38 MB for Ampere / Ada)
+is stored once.
+
+```bash
+nvidia/update.py linux-firmware
 ```
 
 ### amdgpu
