@@ -114,7 +114,6 @@ prebuilt_firmware {
         "i915/skl_guc_ver9_33.bin",
         "i915/skl_huc_2.0.0.bin",
         "i915/skl_huc_ver01_07_1398.bin",
-        "i915/xe3lpd_3002_dmc.bin",
         "i915/xe3p_lpd_dmc.bin",
     ],
     sub_dir: "i915",

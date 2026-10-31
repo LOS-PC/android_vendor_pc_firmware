@@ -75,6 +75,10 @@ def bp_list(body, prop):
 def other_installed():
     """Returns {/vendor/firmware path: module} for OTHER_FIRMWARE's modules."""
     paths = {}
+    # install_symlink module: the prebuilt_firmware module that requires it. The symlink
+    # module installs only the link, so its path goes to the module with the file.
+    owners = {}
+    symlinks = set()
     for tree in OTHER_FIRMWARE:
         if not os.path.isdir(tree):
             print("warning: " + tree + " not found", file=sys.stderr)
@@ -87,10 +91,13 @@ def other_installed():
                                          text, re.M | re.S):
                 name = bp_string(body, "name")
                 if kind == "install_symlink":
+                    symlinks.add(name)
                     loc = bp_string(body, "installed_location") or ""
                     if loc.startswith("firmware/"):
                         paths[loc[len("firmware/"):]] = name
                     continue
+                for req in bp_list(body, "required"):
+                    owners[req] = name
                 subdir = bp_string(body, "relative_install_path") or bp_string(body, "sub_dir")
                 dsts = bp_list(body, "dsts")
                 src = bp_string(body, "src")
@@ -98,7 +105,8 @@ def other_installed():
                     dsts = [bp_string(body, "filename") or os.path.basename(src)]
                 for dst in dsts:
                     paths[os.path.join(subdir, dst) if subdir else dst] = name
-    return paths
+    return {path: owners.get(name, name) if name in symlinks else name
+            for path, name in paths.items()}
 
 
 IWL_UCODE = re.compile(r"^(iwlwifi-([^-]+)-.+)-(c?)(\d+)\.ucode$")

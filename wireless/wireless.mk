@@ -23,11 +23,11 @@ PRODUCT_PACKAGES += \
     firmware_qca_crnv21.bin \
     linux_firmware_ath12k-wcn7850 \
     linux_firmware_ath12k-wcn7850-board2 \
+    linux_firmware_btpci-ibt_be211 \
     linux_firmware_btusb-ibt_ax201 \
     linux_firmware_btusb-ibt_ax211 \
     linux_firmware_btusb-ibt_be200 \
     linux_firmware_btusb-r8822cu \
-    linux_firmware_btusb-r8822cu-symlink-1 \
     linux_firmware_btusb-rtl8761bu_config \
     linux_firmware_cypress-bcm4356 \
     linux_firmware_iwlwifi-QuZ-a0-hr-b0-77 \
@@ -39,6 +39,7 @@ PRODUCT_PACKAGES += \
     linux_firmware_mt7922 \
     linux_firmware_mt7922-bt \
     linux_firmware_mt7925 \
+    linux_firmware_mt7925-bt \
     linux_firmware_qca-wcn785x \
     linux_firmware_rt2800usb \
     linux_firmware_rtw88-rtw8821c \
